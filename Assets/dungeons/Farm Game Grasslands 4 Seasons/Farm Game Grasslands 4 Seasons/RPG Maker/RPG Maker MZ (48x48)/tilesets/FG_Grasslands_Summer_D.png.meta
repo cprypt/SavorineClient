@@ -1,0 +1,1843 @@
+fileFormatVersion: 2
+guid: d9a2315f691829745bd083a068c78120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1935489706911339003
+    second: FG_Grasslands_Summer_D_0
+  - first:
+      213: 6783982539428033626
+    second: FG_Grasslands_Summer_D_1
+  - first:
+      213: 6805490439186844191
+    second: FG_Grasslands_Summer_D_2
+  - first:
+      213: 531456010327252287
+    second: FG_Grasslands_Summer_D_3
+  - first:
+      213: -7068964559183259694
+    second: FG_Grasslands_Summer_D_4
+  - first:
+      213: -2294549271969335932
+    second: FG_Grasslands_Summer_D_5
+  - first:
+      213: 3997509470362391491
+    second: FG_Grasslands_Summer_D_6
+  - first:
+      213: 3837271275717769275
+    second: FG_Grasslands_Summer_D_7
+  - first:
+      213: 3859693820781083783
+    second: FG_Grasslands_Summer_D_8
+  - first:
+      213: 4652711387951519404
+    second: FG_Grasslands_Summer_D_9
+  - first:
+      213: -728697479484149522
+    second: FG_Grasslands_Summer_D_10
+  - first:
+      213: -8338102512972616943
+    second: FG_Grasslands_Summer_D_11
+  - first:
+      213: -1076460124597790128
+    second: FG_Grasslands_Summer_D_12
+  - first:
+      213: 1887808821042079829
+    second: FG_Grasslands_Summer_D_13
+  - first:
+      213: 6700641713618098877
+    second: FG_Grasslands_Summer_D_14
+  - first:
+      213: -2163127896761274995
+    second: FG_Grasslands_Summer_D_15
+  - first:
+      213: 6093448061984913902
+    second: FG_Grasslands_Summer_D_16
+  - first:
+      213: -2295173641213690370
+    second: FG_Grasslands_Summer_D_17
+  - first:
+      213: -5523282738575182770
+    second: FG_Grasslands_Summer_D_18
+  - first:
+      213: -6685690147385681413
+    second: FG_Grasslands_Summer_D_19
+  - first:
+      213: 2654100962141768736
+    second: FG_Grasslands_Summer_D_20
+  - first:
+      213: 2692605830588855716
+    second: FG_Grasslands_Summer_D_21
+  - first:
+      213: 4566800651967767044
+    second: FG_Grasslands_Summer_D_22
+  - first:
+      213: -9033964211130922174
+    second: FG_Grasslands_Summer_D_23
+  - first:
+      213: 1747086098943640223
+    second: FG_Grasslands_Summer_D_24
+  - first:
+      213: 4986608993878709619
+    second: FG_Grasslands_Summer_D_25
+  - first:
+      213: -2540275317240079262
+    second: FG_Grasslands_Summer_D_26
+  - first:
+      213: -6274102299327715620
+    second: FG_Grasslands_Summer_D_27
+  - first:
+      213: -6156104268540238897
+    second: FG_Grasslands_Summer_D_28
+  - first:
+      213: -6870650021875772571
+    second: FG_Grasslands_Summer_D_29
+  - first:
+      213: -5982789002772015564
+    second: FG_Grasslands_Summer_D_30
+  - first:
+      213: 6579391002635231245
+    second: FG_Grasslands_Summer_D_31
+  - first:
+      213: 1188326931365175763
+    second: FG_Grasslands_Summer_D_32
+  - first:
+      213: -1776995966151646865
+    second: FG_Grasslands_Summer_D_33
+  - first:
+      213: 2830619101215632592
+    second: FG_Grasslands_Summer_D_34
+  - first:
+      213: 4388600894417326624
+    second: FG_Grasslands_Summer_D_35
+  - first:
+      213: 5947518032588820248
+    second: FG_Grasslands_Summer_D_36
+  - first:
+      213: 1424538784663687107
+    second: FG_Grasslands_Summer_D_37
+  - first:
+      213: 6017344453519824995
+    second: FG_Grasslands_Summer_D_38
+  - first:
+      213: 6937806931539743126
+    second: FG_Grasslands_Summer_D_39
+  - first:
+      213: -4220541315596524194
+    second: FG_Grasslands_Summer_D_40
+  - first:
+      213: -2091709776300499085
+    second: FG_Grasslands_Summer_D_41
+  - first:
+      213: 1781000516533520160
+    second: FG_Grasslands_Summer_D_42
+  - first:
+      213: 4777435237845852186
+    second: FG_Grasslands_Summer_D_43
+  - first:
+      213: -3775875780650489658
+    second: FG_Grasslands_Summer_D_44
+  - first:
+      213: -3435992892998545751
+    second: FG_Grasslands_Summer_D_45
+  - first:
+      213: -285634691082582852
+    second: FG_Grasslands_Summer_D_46
+  - first:
+      213: 4686968655145697241
+    second: FG_Grasslands_Summer_D_47
+  - first:
+      213: 4915780024223636347
+    second: FG_Grasslands_Summer_D_48
+  - first:
+      213: 3760152367271459011
+    second: FG_Grasslands_Summer_D_49
+  - first:
+      213: -8962069623150396652
+    second: FG_Grasslands_Summer_D_50
+  - first:
+      213: 1143984379149736160
+    second: FG_Grasslands_Summer_D_51
+  - first:
+      213: 7694148057520699302
+    second: FG_Grasslands_Summer_D_52
+  - first:
+      213: -2531418267118601831
+    second: FG_Grasslands_Summer_D_53
+  - first:
+      213: 9156062779599545378
+    second: FG_Grasslands_Summer_D_54
+  - first:
+      213: 860343839635674644
+    second: FG_Grasslands_Summer_D_55
+  - first:
+      213: -6664979934108012936
+    second: FG_Grasslands_Summer_D_56
+  - first:
+      213: -7275686103415778497
+    second: FG_Grasslands_Summer_D_57
+  - first:
+      213: 2780146368380387724
+    second: FG_Grasslands_Summer_D_58
+  - first:
+      213: 8640407372801393008
+    second: FG_Grasslands_Summer_D_59
+  - first:
+      213: -7339334896033050013
+    second: FG_Grasslands_Summer_D_60
+  - first:
+      213: -1434568016059803391
+    second: FG_Grasslands_Summer_D_61
+  - first:
+      213: -2101053616770841995
+    second: FG_Grasslands_Summer_D_62
+  - first:
+      213: -5722909848540210822
+    second: FG_Grasslands_Summer_D_63
+  - first:
+      213: 2783237278404919855
+    second: FG_Grasslands_Summer_D_64
+  - first:
+      213: -3481432285799766221
+    second: FG_Grasslands_Summer_D_65
+  - first:
+      213: 7435536286669576779
+    second: FG_Grasslands_Summer_D_66
+  - first:
+      213: -2691901002998983735
+    second: FG_Grasslands_Summer_D_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 632
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf110ee32ad3cda10800000000000000
+      internalID: 1935489706911339003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 671
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a547f013d2c852e50800000000000000
+      internalID: 6783982539428033626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 629
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a8c065f75f17e50800000000000000
+      internalID: 6805490439186844191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 527
+        width: 385
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d5d45fc6c106700800000000000000
+      internalID: 531456010327252287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 590
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75e08bf2ef5ed90800000000000000
+      internalID: -7068964559183259694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 590
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485f2ac189f1820e0800000000000000
+      internalID: -2294549271969335932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 605
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3d53ffea10a7730800000000000000
+      internalID: 3997509470362391491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 590
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38b7fff4e9b04530800000000000000
+      internalID: 3837271275717769275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 590
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c3d699413609530800000000000000
+      internalID: 3859693820781083783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 605
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6d3413b50c19040800000000000000
+      internalID: 4652711387951519404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 602
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0ff92d08523e5f0800000000000000
+      internalID: -728697479484149522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 590
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ba97d01fb194c80800000000000000
+      internalID: -8338102512972616943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 581
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ad9725835af01f0800000000000000
+      internalID: -1076460124597790128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 581
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558ef06ee18d23a10800000000000000
+      internalID: 1887808821042079829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 581
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba1f5313267dfc50800000000000000
+      internalID: 6700641713618098877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 542
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6ecd73a60bf1e0800000000000000
+      internalID: -2163127896761274995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 542
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee937e75ab6409450800000000000000
+      internalID: 6093448061984913902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 554
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd3e91dbb7e520e0800000000000000
+      internalID: -2295173641213690370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 557
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44fd25ec9b5953b0800000000000000
+      internalID: -5523282738575182770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 542
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95fb6bb38a733a0800000000000000
+      internalID: -6685690147385681413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 533
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c8b7653c245d420800000000000000
+      internalID: 2654100962141768736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 536
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5f464acbe0e5520800000000000000
+      internalID: 2692605830588855716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 494
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402af8c3ff8806f30800000000000000
+      internalID: 4566800651967767044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 506
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b03f9f969e0a280800000000000000
+      internalID: -9033964211130922174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 506
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f920f8fec85ee3810800000000000000
+      internalID: 1747086098943640223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 494
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37598e1b57ef33540800000000000000
+      internalID: 4986608993878709619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 509
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c5634de012fbcd0800000000000000
+      internalID: -2540275317240079262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 479
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62c1c4339ede8a0800000000000000
+      internalID: -6274102299327715620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 479
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3a461c8cf119aa0800000000000000
+      internalID: -6156104268540238897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 479
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5639016153c86a0a0800000000000000
+      internalID: -6870650021875772571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_30
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 479
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43619a3a91dd8fca0800000000000000
+      internalID: -5982789002772015564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 479
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00697ef141be4b50800000000000000
+      internalID: 6579391002635231245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 482
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d12d0d4c09cd7010800000000000000
+      internalID: 1188326931365175763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 485
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61aa3e6597d657e0800000000000000
+      internalID: -1776995966151646865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 485
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dca4664311684720800000000000000
+      internalID: 2830619101215632592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 482
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022d4bcf24177ec30800000000000000
+      internalID: 4388600894417326624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_36
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 488
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fcfaba324d98250800000000000000
+      internalID: 5947518032588820248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 266
+        width: 152
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf45a42a7af4c310800000000000000
+      internalID: 1424538784663687107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 266
+        width: 152
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368573336e6e18350800000000000000
+      internalID: 6017344453519824995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 383
+        width: 385
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6915baa65aa084060800000000000000
+      internalID: 6937806931539743126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55620ce800ad65c0800000000000000
+      internalID: -4220541315596524194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 191
+        width: 388
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f95627a01c8f2e0800000000000000
+      internalID: -2091709776300499085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 143
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02784cc988267b810800000000000000
+      internalID: 1781000516533520160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_43
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 143
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a106c31790cdc4240800000000000000
+      internalID: 4777435237845852186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 95
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8a352abf4699bc0800000000000000
+      internalID: -3775875780650489658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 95
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae0e022ba6e050d0800000000000000
+      internalID: -3435992892998545751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 95
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb48e7603c8390cf0800000000000000
+      internalID: -285634691082582852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 95
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df7953c8257b0140800000000000000
+      internalID: 4686968655145697241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_48
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 95
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b9fc913eb583440800000000000000
+      internalID: 4915780024223636347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_49
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 95
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83f88e7aebe2430800000000000000
+      internalID: 3760152367271459011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_50
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 95
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b3dcb292550a380800000000000000
+      internalID: -8962069623150396652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_51
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 95
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8d0d35bbf30ef00800000000000000
+      internalID: 1143984379149736160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 95
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a778c994ea17ca60800000000000000
+      internalID: 7694148057520699302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 95
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f5728f789edcd0800000000000000
+      internalID: -2531418267118601831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_54
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 95
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e43f469ed01f70800000000000000
+      internalID: 9156062779599545378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 47
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161e22f92e80fb00800000000000000
+      internalID: 860343839635674644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 47
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea260001c3183a0800000000000000
+      internalID: -6664979934108012936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3318a48902970b90800000000000000
+      internalID: -7275686103415778497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81c7e66460159620800000000000000
+      internalID: 2780146368380387724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714e7a0ab4e8e770800000000000000
+      internalID: 8640407372801393008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_60
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362525a2cc1752a90800000000000000
+      internalID: -7339334896033050013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_61
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1095e947df3671ce0800000000000000
+      internalID: -1434568016059803391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_62
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572035e0ede87d2e0800000000000000
+      internalID: -2101053616770841995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_63
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a791d2460d32490b0800000000000000
+      internalID: -5722909848540210822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_64
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2243f8fe8b00a620800000000000000
+      internalID: 2783237278404919855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337245f08c77fafc0800000000000000
+      internalID: -3481432285799766221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a97798bd4503760800000000000000
+      internalID: 7435536286669576779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Summer_D_67
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c35ab1dc4274aad0800000000000000
+      internalID: -2691901002998983735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

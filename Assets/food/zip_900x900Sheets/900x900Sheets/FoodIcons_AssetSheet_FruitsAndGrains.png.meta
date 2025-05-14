@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: fec0cb73b15543c48a5c28f8b3f5a827
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5164837512247206723
+    second: FoodIcons_AssetSheet_FruitsAndGrains_0
+  - first:
+      213: 5729882774207587620
+    second: FoodIcons_AssetSheet_FruitsAndGrains_1
+  - first:
+      213: -4617279484948752540
+    second: FoodIcons_AssetSheet_FruitsAndGrains_2
+  - first:
+      213: 5360599880372247976
+    second: FoodIcons_AssetSheet_FruitsAndGrains_3
+  - first:
+      213: -2450272383399490203
+    second: FoodIcons_AssetSheet_FruitsAndGrains_4
+  - first:
+      213: -4038420208166441786
+    second: FoodIcons_AssetSheet_FruitsAndGrains_5
+  - first:
+      213: 5329273168144826051
+    second: FoodIcons_AssetSheet_FruitsAndGrains_6
+  - first:
+      213: -2004973377856444943
+    second: FoodIcons_AssetSheet_FruitsAndGrains_7
+  - first:
+      213: -7194931350538137484
+    second: FoodIcons_AssetSheet_FruitsAndGrains_8
+  - first:
+      213: 2568721901398580612
+    second: FoodIcons_AssetSheet_FruitsAndGrains_9
+  - first:
+      213: -4013212049053921796
+    second: FoodIcons_AssetSheet_FruitsAndGrains_10
+  - first:
+      213: -6713542106174675967
+    second: FoodIcons_AssetSheet_FruitsAndGrains_11
+  - first:
+      213: 2402557826127289723
+    second: FoodIcons_AssetSheet_FruitsAndGrains_12
+  - first:
+      213: 3247591614866142213
+    second: FoodIcons_AssetSheet_FruitsAndGrains_13
+  - first:
+      213: -5436504756919481950
+    second: FoodIcons_AssetSheet_FruitsAndGrains_14
+  - first:
+      213: 2913086476572110735
+    second: FoodIcons_AssetSheet_FruitsAndGrains_15
+  - first:
+      213: -7024367103470254866
+    second: FoodIcons_AssetSheet_FruitsAndGrains_16
+  - first:
+      213: 4583965753798319333
+    second: FoodIcons_AssetSheet_FruitsAndGrains_17
+  - first:
+      213: 1139312387550131029
+    second: FoodIcons_AssetSheet_FruitsAndGrains_18
+  - first:
+      213: 6491727066458354022
+    second: FoodIcons_AssetSheet_FruitsAndGrains_19
+  - first:
+      213: 7168502717158069471
+    second: FoodIcons_AssetSheet_FruitsAndGrains_20
+  - first:
+      213: -3235434054281322805
+    second: FoodIcons_AssetSheet_FruitsAndGrains_21
+  - first:
+      213: -4219274340656394436
+    second: FoodIcons_AssetSheet_FruitsAndGrains_22
+  - first:
+      213: -3686713988660231570
+    second: FoodIcons_AssetSheet_FruitsAndGrains_23
+  - first:
+      213: 7141636829580059573
+    second: FoodIcons_AssetSheet_FruitsAndGrains_24
+  - first:
+      213: 2539187899314892368
+    second: FoodIcons_AssetSheet_FruitsAndGrains_25
+  - first:
+      213: 4063001048856018077
+    second: FoodIcons_AssetSheet_FruitsAndGrains_26
+  - first:
+      213: 8322192782518547738
+    second: FoodIcons_AssetSheet_FruitsAndGrains_27
+  - first:
+      213: 5045476003003771317
+    second: FoodIcons_AssetSheet_FruitsAndGrains_28
+  - first:
+      213: -2111016819146005826
+    second: FoodIcons_AssetSheet_FruitsAndGrains_29
+  - first:
+      213: -5252674372340606937
+    second: FoodIcons_AssetSheet_FruitsAndGrains_30
+  - first:
+      213: -8357628943867320522
+    second: FoodIcons_AssetSheet_FruitsAndGrains_31
+  - first:
+      213: -5975422852943790629
+    second: FoodIcons_AssetSheet_FruitsAndGrains_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2723
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc94e7a5afc258b0800000000000000
+      internalID: -5164837512247206723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_1
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2723
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e5416602a48f40800000000000000
+      internalID: 5729882774207587620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_2
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2724
+        width: 853
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675ee695c02cefb0800000000000000
+      internalID: -4617279484948752540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_3
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 2724
+        width: 853
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8add694803da46a40800000000000000
+      internalID: 5360599880372247976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_4
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 2724
+        width: 851
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d0688df32eefdd0800000000000000
+      internalID: -2450272383399490203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_5
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 2724
+        width: 851
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccea769736a4f7c0800000000000000
+      internalID: -4038420208166441786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1825
+        width: 854
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cefa42f5b165f940800000000000000
+      internalID: 5329273168144826051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1823
+        width: 852
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f560cce557ec24e0800000000000000
+      internalID: -2004973377856444943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_8
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1823
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4705adb9e08762c90800000000000000
+      internalID: -7194931350538137484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_9
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1824
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dd0aba5fee5a320800000000000000
+      internalID: 2568721901398580612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_10
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 1823
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdc2df77e43e48c0800000000000000
+      internalID: -4013212049053921796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_11
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 1823
+        width: 853
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a4d83605b4d2a0800000000000000
+      internalID: -6713542106174675967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 924
+        width: 853
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd6a21d99975120800000000000000
+      internalID: 2402557826127289723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 923
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50432a30e53c11d20800000000000000
+      internalID: 3247591614866142213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 923
+        width: 854
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9c7183ab7ad84b0800000000000000
+      internalID: -5436504756919481950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_15
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 924
+        width: 853
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f231c57bc5d6820800000000000000
+      internalID: 2913086476572110735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_16
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 923
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee447b9065f648e90800000000000000
+      internalID: -7024367103470254866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_17
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 923
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec54b1f0948d9f30800000000000000
+      internalID: 4583965753798319333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 673
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553b0248496afcf00800000000000000
+      internalID: 1139312387550131029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 727
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661f90f4f5f371a50800000000000000
+      internalID: 6491727066458354022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 813
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd411abad33ab7360800000000000000
+      internalID: 7168502717158069471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_21
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 673
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce1c54aedd6913d0800000000000000
+      internalID: -3235434054281322805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 727
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f414387502275c0800000000000000
+      internalID: -4219274340656394436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 24
+        width: 813
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62817d092926dcc0800000000000000
+      internalID: -3686713988660231570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_24
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 673
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b367f5cbd03c1360800000000000000
+      internalID: 7141636829580059573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_25
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 727
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e62a4f0f10d3320800000000000000
+      internalID: 2539187899314892368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_26
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 24
+        width: 813
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c3a1f5deda26830800000000000000
+      internalID: 4063001048856018077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_27
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 24
+        width: 852
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15765a2e3e5e7370800000000000000
+      internalID: 8322192782518547738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_28
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 24
+        width: 852
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b92cc151b1250640800000000000000
+      internalID: 5045476003003771317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_29
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 24
+        width: 852
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26deb336924b2e0800000000000000
+      internalID: -2111016819146005826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_30
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 435
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72817dbfc70ca17b0800000000000000
+      internalID: -5252674372340606937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_31
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 435
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e34491ccb30c80800000000000000
+      internalID: -8357628943867320522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_FruitsAndGrains_32
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 435
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb88b0398031da0800000000000000
+      internalID: -5975422852943790629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

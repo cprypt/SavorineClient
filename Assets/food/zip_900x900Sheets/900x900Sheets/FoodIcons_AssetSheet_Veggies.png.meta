@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: e24c1619f30712d468ed17e4d365dff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1682603562144372954
+    second: FoodIcons_AssetSheet_Veggies_0
+  - first:
+      213: -784452243383117938
+    second: FoodIcons_AssetSheet_Veggies_1
+  - first:
+      213: 463879910001165529
+    second: FoodIcons_AssetSheet_Veggies_2
+  - first:
+      213: 2182920066614387949
+    second: FoodIcons_AssetSheet_Veggies_3
+  - first:
+      213: 7738673108970119006
+    second: FoodIcons_AssetSheet_Veggies_4
+  - first:
+      213: -5798071845952762869
+    second: FoodIcons_AssetSheet_Veggies_5
+  - first:
+      213: -2011351668428527473
+    second: FoodIcons_AssetSheet_Veggies_6
+  - first:
+      213: -8268879052757993655
+    second: FoodIcons_AssetSheet_Veggies_7
+  - first:
+      213: -8833998792347985480
+    second: FoodIcons_AssetSheet_Veggies_8
+  - first:
+      213: 4170130717036561141
+    second: FoodIcons_AssetSheet_Veggies_9
+  - first:
+      213: -7623046069061666813
+    second: FoodIcons_AssetSheet_Veggies_10
+  - first:
+      213: -4675547932233658031
+    second: FoodIcons_AssetSheet_Veggies_11
+  - first:
+      213: 2576152612909195513
+    second: FoodIcons_AssetSheet_Veggies_12
+  - first:
+      213: -7310456859654669906
+    second: FoodIcons_AssetSheet_Veggies_13
+  - first:
+      213: 2894835419203901607
+    second: FoodIcons_AssetSheet_Veggies_14
+  - first:
+      213: 8895106617990766301
+    second: FoodIcons_AssetSheet_Veggies_15
+  - first:
+      213: 7444682028170825920
+    second: FoodIcons_AssetSheet_Veggies_16
+  - first:
+      213: 6445625898703114070
+    second: FoodIcons_AssetSheet_Veggies_17
+  - first:
+      213: 8003174442199326019
+    second: FoodIcons_AssetSheet_Veggies_18
+  - first:
+      213: -4061737537227711615
+    second: FoodIcons_AssetSheet_Veggies_19
+  - first:
+      213: -958868036461676510
+    second: FoodIcons_AssetSheet_Veggies_20
+  - first:
+      213: -2881642950718110900
+    second: FoodIcons_AssetSheet_Veggies_21
+  - first:
+      213: 414642417888015009
+    second: FoodIcons_AssetSheet_Veggies_22
+  - first:
+      213: -1267209084656414087
+    second: FoodIcons_AssetSheet_Veggies_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2723
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627e39c99f036a8e0800000000000000
+      internalID: -1682603562144372954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_1
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2723
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8714e147d01d15f0800000000000000
+      internalID: -784452243383117938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_2
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2723
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d44f060258007600800000000000000
+      internalID: 463879910001165529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_3
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2723
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de46f972c3a4b4e10800000000000000
+      internalID: 2182920066614387949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_4
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2723
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f180df03a456b60800000000000000
+      internalID: 7738673108970119006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_5
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 2723
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccac7206c198fa0800000000000000
+      internalID: -5798071845952762869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1823
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88adec605e3614e0800000000000000
+      internalID: -2011351668428527473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1823
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947f0b9df4a0f3d80800000000000000
+      internalID: -8268879052757993655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_8
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1823
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b95ed327e4576580800000000000000
+      internalID: -8833998792347985480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_9
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 1823
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2c8e7fac74fd930800000000000000
+      internalID: 4170130717036561141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_10
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 1823
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30834232dff753690800000000000000
+      internalID: -7623046069061666813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_11
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 1822
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15196e08ded1d1fb0800000000000000
+      internalID: -4675547932233658031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 923
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0a5a3072550c320800000000000000
+      internalID: 2576152612909195513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 923
+        width: 853
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea93776f73a0c8a90800000000000000
+      internalID: -7310456859654669906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 923
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a81edce9758c2820800000000000000
+      internalID: 2894835419203901607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_15
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 922
+        width: 854
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded09c3754c17b70800000000000000
+      internalID: 8895106617990766301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_16
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 924
+        width: 846
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c05bda6cd2d05760800000000000000
+      internalID: 7444682028170825920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_17
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 924
+        width: 854
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fc14fba96737950800000000000000
+      internalID: 6445625898703114070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 22
+        width: 853
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d96c6a0ccf01f60800000000000000
+      internalID: 8003174442199326019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_19
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 22
+        width: 850
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b1caada3fc1a7c0800000000000000
+      internalID: -4061737537227711615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_20
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 24
+        width: 855
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b934e99a61b2f0800000000000000
+      internalID: -958868036461676510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_21
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 24
+        width: 853
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4340f001095208d0800000000000000
+      internalID: -2881642950718110900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_22
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 24
+        width: 853
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2360b051b11c500800000000000000
+      internalID: 414642417888015009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Veggies_23
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 23
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97218ec2d08f96ee0800000000000000
+      internalID: -1267209084656414087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

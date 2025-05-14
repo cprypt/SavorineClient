@@ -1,0 +1,2543 @@
+fileFormatVersion: 2
+guid: 42e4b3814626cdf4d96ac3878debda7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7236578384993076173
+    second: FG_Crystals_0
+  - first:
+      213: -4341136543290587326
+    second: FG_Crystals_1
+  - first:
+      213: -8138982348781239494
+    second: FG_Crystals_2
+  - first:
+      213: -7991210955697536116
+    second: FG_Crystals_3
+  - first:
+      213: 6395859659557704279
+    second: FG_Crystals_4
+  - first:
+      213: 8610033214561561714
+    second: FG_Crystals_5
+  - first:
+      213: -6663535805129488813
+    second: FG_Crystals_6
+  - first:
+      213: -3033404656450115197
+    second: FG_Crystals_7
+  - first:
+      213: 4724647592933187352
+    second: FG_Crystals_8
+  - first:
+      213: 2371136174662991483
+    second: FG_Crystals_9
+  - first:
+      213: 1102589724014662797
+    second: FG_Crystals_10
+  - first:
+      213: 1800245769194480898
+    second: FG_Crystals_11
+  - first:
+      213: 350631136545339483
+    second: FG_Crystals_12
+  - first:
+      213: 7455759765126877450
+    second: FG_Crystals_13
+  - first:
+      213: 1471717574367510827
+    second: FG_Crystals_14
+  - first:
+      213: -5989352758684985292
+    second: FG_Crystals_15
+  - first:
+      213: 3898787163931128030
+    second: FG_Crystals_16
+  - first:
+      213: 9094994991228976569
+    second: FG_Crystals_17
+  - first:
+      213: -4131992279114962553
+    second: FG_Crystals_18
+  - first:
+      213: -8609739067689688890
+    second: FG_Crystals_19
+  - first:
+      213: -1675377063273101406
+    second: FG_Crystals_20
+  - first:
+      213: 7186310530390220865
+    second: FG_Crystals_21
+  - first:
+      213: 6688780816447029754
+    second: FG_Crystals_22
+  - first:
+      213: -4484371710890520048
+    second: FG_Crystals_23
+  - first:
+      213: -8441854418515316150
+    second: FG_Crystals_24
+  - first:
+      213: -3092478234088250763
+    second: FG_Crystals_25
+  - first:
+      213: -4636626280804646881
+    second: FG_Crystals_26
+  - first:
+      213: -376922160545527008
+    second: FG_Crystals_27
+  - first:
+      213: -7665830031763739348
+    second: FG_Crystals_28
+  - first:
+      213: 1843063522838273803
+    second: FG_Crystals_29
+  - first:
+      213: -8577191658979132130
+    second: FG_Crystals_30
+  - first:
+      213: -6679889643884948885
+    second: FG_Crystals_31
+  - first:
+      213: 5194458932111403436
+    second: FG_Crystals_32
+  - first:
+      213: -9212196859626989740
+    second: FG_Crystals_33
+  - first:
+      213: 1617929731135351638
+    second: FG_Crystals_34
+  - first:
+      213: 7242201773200047319
+    second: FG_Crystals_35
+  - first:
+      213: 4068687681211150983
+    second: FG_Crystals_36
+  - first:
+      213: 5572795345911998371
+    second: FG_Crystals_37
+  - first:
+      213: -3687746568287020506
+    second: FG_Crystals_38
+  - first:
+      213: 4475605590440370339
+    second: FG_Crystals_39
+  - first:
+      213: -191975701763792383
+    second: FG_Crystals_40
+  - first:
+      213: -7018974447342947028
+    second: FG_Crystals_41
+  - first:
+      213: -4103491802159361780
+    second: FG_Crystals_42
+  - first:
+      213: 3703303222455518261
+    second: FG_Crystals_43
+  - first:
+      213: 3359236250139925744
+    second: FG_Crystals_44
+  - first:
+      213: 1867279369009640206
+    second: FG_Crystals_45
+  - first:
+      213: -8031234382109368994
+    second: FG_Crystals_46
+  - first:
+      213: -6161326494508220752
+    second: FG_Crystals_47
+  - first:
+      213: -9064255093513145754
+    second: FG_Crystals_48
+  - first:
+      213: -5882671244703204129
+    second: FG_Crystals_49
+  - first:
+      213: 2764866654086590415
+    second: FG_Crystals_50
+  - first:
+      213: 8608491629360697603
+    second: FG_Crystals_51
+  - first:
+      213: -2177611001836236117
+    second: FG_Crystals_52
+  - first:
+      213: -5930622557413429607
+    second: FG_Crystals_53
+  - first:
+      213: -5494588111654772739
+    second: FG_Crystals_54
+  - first:
+      213: -38942315767244884
+    second: FG_Crystals_55
+  - first:
+      213: -4186308219444336965
+    second: FG_Crystals_56
+  - first:
+      213: 3617880688195605948
+    second: FG_Crystals_57
+  - first:
+      213: 3407703487108168257
+    second: FG_Crystals_58
+  - first:
+      213: -3903867072347612152
+    second: FG_Crystals_59
+  - first:
+      213: -511419405631208340
+    second: FG_Crystals_60
+  - first:
+      213: -2253648708956801357
+    second: FG_Crystals_61
+  - first:
+      213: 9148526823183935311
+    second: FG_Crystals_62
+  - first:
+      213: 2895550490140781943
+    second: FG_Crystals_63
+  - first:
+      213: 9177387766967915560
+    second: FG_Crystals_64
+  - first:
+      213: 70751286704642393
+    second: FG_Crystals_65
+  - first:
+      213: -2622786691080009074
+    second: FG_Crystals_66
+  - first:
+      213: -2980269556197798289
+    second: FG_Crystals_67
+  - first:
+      213: 7578478355039768207
+    second: FG_Crystals_68
+  - first:
+      213: 1487413366988955584
+    second: FG_Crystals_69
+  - first:
+      213: -7593919473312005259
+    second: FG_Crystals_70
+  - first:
+      213: -3265188105523891662
+    second: FG_Crystals_71
+  - first:
+      213: 3978294365754148522
+    second: FG_Crystals_72
+  - first:
+      213: 932152892583420998
+    second: FG_Crystals_73
+  - first:
+      213: 3026223407897105817
+    second: FG_Crystals_74
+  - first:
+      213: -7637270079289422308
+    second: FG_Crystals_75
+  - first:
+      213: -507192841824660037
+    second: FG_Crystals_76
+  - first:
+      213: 6752106905523696124
+    second: FG_Crystals_77
+  - first:
+      213: -4318855830416320080
+    second: FG_Crystals_78
+  - first:
+      213: -7907128472325255716
+    second: FG_Crystals_79
+  - first:
+      213: -4395315012671744370
+    second: FG_Crystals_80
+  - first:
+      213: -4839659392402144363
+    second: FG_Crystals_81
+  - first:
+      213: -1089847073185018791
+    second: FG_Crystals_82
+  - first:
+      213: 7219784103075486355
+    second: FG_Crystals_83
+  - first:
+      213: 8740509789303205131
+    second: FG_Crystals_84
+  - first:
+      213: -2028230944403274034
+    second: FG_Crystals_85
+  - first:
+      213: -5609290656550262537
+    second: FG_Crystals_86
+  - first:
+      213: -7322799949591745283
+    second: FG_Crystals_87
+  - first:
+      213: -1558409882561284081
+    second: FG_Crystals_88
+  - first:
+      213: -804326151737109970
+    second: FG_Crystals_89
+  - first:
+      213: 217197467598858682
+    second: FG_Crystals_90
+  - first:
+      213: -891307255726869397
+    second: FG_Crystals_91
+  - first:
+      213: -3636228825430629519
+    second: FG_Crystals_92
+  - first:
+      213: 6855941206656406935
+    second: FG_Crystals_93
+  - first:
+      213: -2402975340515461181
+    second: FG_Crystals_94
+  - first:
+      213: -4500158563209202455
+    second: FG_Crystals_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FG_Crystals_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc348ca33bd7d6460800000000000000
+      internalID: 7236578384993076173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24782bf605f21c3c0800000000000000
+      internalID: -4341136543290587326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3348bb0da68c0f80800000000000000
+      internalID: -8138982348781239494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83407c99f3891190800000000000000
+      internalID: -7991210955697536116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75210314978a2c850800000000000000
+      internalID: 6395859659557704279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca14a379bfc7770800000000000000
+      internalID: 8610033214561561714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356092b7d7d5683a0800000000000000
+      internalID: -6663535805129488813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3896640698e27e5d0800000000000000
+      internalID: -3033404656450115197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fdfa914f1519140800000000000000
+      internalID: 4724647592933187352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ebddcb9c7f7e020800000000000000
+      internalID: 2371136174662991483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84d3e0238f2d4f00800000000000000
+      internalID: 1102589724014662797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205ac3d2df1cbf810800000000000000
+      internalID: 1800245769194480898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58f9f43921bdd400800000000000000
+      internalID: 350631136545339483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01990b010e287760800000000000000
+      internalID: 7455759765126877450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2100ed16579c6410800000000000000
+      internalID: 1471717574367510827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385310266b81eca0800000000000000
+      internalID: -5989352758684985292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b7f8d4464b1630800000000000000
+      internalID: 3898787163931128030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf826d1c9e73e70800000000000000
+      internalID: 9094994991228976569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78922b41ae638a6c0800000000000000
+      internalID: -4131992279114962553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ad8d2fef048880800000000000000
+      internalID: -8609739067689688890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a705ceff6ddfb8e0800000000000000
+      internalID: -1675377063273101406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140ee894a57eab360800000000000000
+      internalID: 7186310530390220865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1c5c0c6b253dc50800000000000000
+      internalID: 6688780816447029754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0125f8b20bf44c1c0800000000000000
+      internalID: -4484371710890520048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4235da122288da80800000000000000
+      internalID: -8441854418515316150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ea854e6f4515d0800000000000000
+      internalID: -3092478234088250763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f100668a6f467afb0800000000000000
+      internalID: -4636626280804646881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b06b0ca47e4caf0800000000000000
+      internalID: -376922160545527008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d633093308d9590800000000000000
+      internalID: -7665830031763739348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f51415280e39910800000000000000
+      internalID: 1843063522838273803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dfa1c41a1b7f880800000000000000
+      internalID: -8577191658979132130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b625d6da2c34c43a0800000000000000
+      internalID: -6679889643884948885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ead890ec661840800000000000000
+      internalID: 5194458932111403436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_33
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457d6f4b3c3b72080800000000000000
+      internalID: -9212196859626989740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_34
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65baddfa48a047610800000000000000
+      internalID: 1617929731135351638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_35
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 242
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcfa435428718460800000000000000
+      internalID: 7242201773200047319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7823994a3e1e67830800000000000000
+      internalID: 4068687681211150983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7e80757db865d40800000000000000
+      internalID: 5572795345911998371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a169fd80e72dcc0800000000000000
+      internalID: -3687746568287020506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a063fc529b8c1e30800000000000000
+      internalID: 4475605590440370339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102ecdacd17f55df0800000000000000
+      internalID: -191975701763792383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257492ade7979e90800000000000000
+      internalID: -7018974447342947028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01509972f77d07c0800000000000000
+      internalID: -4103491802159361780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534450ee8a6c46330800000000000000
+      internalID: 3703303222455518261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc943e42976e9e20800000000000000
+      internalID: 3359236250139925744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e033c3e51b8e9e910800000000000000
+      internalID: 1867279369009640206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d977a71e25b8090800000000000000
+      internalID: -8031234382109368994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_47
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 194
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be72a582329e7aa0800000000000000
+      internalID: -6161326494508220752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662bf95540c453280800000000000000
+      internalID: -9064255093513145754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7f01bbad8c5ea0800000000000000
+      internalID: -5882671244703204129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf6720b297ce5620800000000000000
+      internalID: 2764866654086590415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d7f3f681877770800000000000000
+      internalID: 8608491629360697603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba29190d45297c1e0800000000000000
+      internalID: -2177611001836236117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_53
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e2470b43232bda0800000000000000
+      internalID: -5930622557413429607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9bb9593d4fb3b0800000000000000
+      internalID: -5494588111654772739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca756fd8b26a57ff0800000000000000
+      internalID: -38942315767244884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e8bbbade37e5c0800000000000000
+      internalID: -4186308219444336965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb515ab415b453230800000000000000
+      internalID: 3617880688195605948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a31f844489a4f20800000000000000
+      internalID: 3407703487108168257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 143
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c506ec49da2d9c0800000000000000
+      internalID: -3903867072347612152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c644c1c92c217e8f0800000000000000
+      internalID: -511419405631208340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6bc16807e69b0e0800000000000000
+      internalID: -2253648708956801357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47e20abca816fe70800000000000000
+      internalID: 9148526823183935311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dac0a54df0f2820800000000000000
+      internalID: 2895550490140781943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8245328dc81ac5f70800000000000000
+      internalID: 9177387766967915560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9599e6f9beb5bf000800000000000000
+      internalID: 70751286704642393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8acd8c866df99bd0800000000000000
+      internalID: -2622786691080009074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_67
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e4be7f0a4f3a6d0800000000000000
+      internalID: -2980269556197798289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_68
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ec12259e92c2960800000000000000
+      internalID: 7578478355039768207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf5b8d939a54a410800000000000000
+      internalID: 1487413366988955584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573015c297afc9690800000000000000
+      internalID: -7593919473312005259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 95
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232fa6db7b8bfa2d0800000000000000
+      internalID: -3265188105523891662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6c6b2d5adb53730800000000000000
+      internalID: 3978294365754148522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644a9c6fd1cafec00800000000000000
+      internalID: 932152892583420998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995dda6e72e4ff920800000000000000
+      internalID: 3026223407897105817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e0c3ea357f20690800000000000000
+      internalID: -7637270079289422308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb59b6e2cc616f8f0800000000000000
+      internalID: -507192841824660037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1b335d47d44bd50800000000000000
+      internalID: 6752106905523696124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b919e721875014c0800000000000000
+      internalID: -4318855830416320080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_79
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd0da55c8c344290800000000000000
+      internalID: -7907128472325255716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_80
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8652c98844b003c0800000000000000
+      internalID: -4395315012671744370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ccf99c6316dcb0800000000000000
+      internalID: -4839659392402144363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cce477cd510e0f0800000000000000
+      internalID: -1089847073185018791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 47
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a93d2c363d13460800000000000000
+      internalID: 7219784103075486355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ded3b18578c4970800000000000000
+      internalID: 8740509789303205131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6436cb3b64ad3e0800000000000000
+      internalID: -2028230944403274034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_86
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8676efddbc722b0800000000000000
+      internalID: -5609290656550262537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_87
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce5536e30306a90800000000000000
+      internalID: -7322799949591745283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f977f77a6f5ae0800000000000000
+      internalID: -1558409882561284081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22172260a576d4f0800000000000000
+      internalID: -804326151737109970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_90
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9285e22f3a30300800000000000000
+      internalID: 217197467598858682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_91
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64fba4f5c071a3f0800000000000000
+      internalID: -891307255726869397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_92
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173eb2a1625898dc0800000000000000
+      internalID: -3636228825430629519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795d7bff332352f50800000000000000
+      internalID: 6855941206656406935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_94
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c77d88c8aae6aed0800000000000000
+      internalID: -2402975340515461181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Crystals_95
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4bbfe21a93c81c0800000000000000
+      internalID: -4500158563209202455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

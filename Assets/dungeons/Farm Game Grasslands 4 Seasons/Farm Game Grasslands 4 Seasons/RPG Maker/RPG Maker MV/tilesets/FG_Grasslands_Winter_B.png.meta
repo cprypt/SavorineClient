@@ -1,0 +1,5318 @@
+fileFormatVersion: 2
+guid: 59575cdb53872cd43b8f23141054c43f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6601832209098069546
+    second: FG_Grasslands_Winter_B_0
+  - first:
+      213: 4865127546254852465
+    second: FG_Grasslands_Winter_B_1
+  - first:
+      213: -676497898626024488
+    second: FG_Grasslands_Winter_B_2
+  - first:
+      213: -2334320595118055064
+    second: FG_Grasslands_Winter_B_3
+  - first:
+      213: -4446437246108310213
+    second: FG_Grasslands_Winter_B_4
+  - first:
+      213: -3620535325213625292
+    second: FG_Grasslands_Winter_B_5
+  - first:
+      213: -2426530374695831643
+    second: FG_Grasslands_Winter_B_6
+  - first:
+      213: 3559426477158961043
+    second: FG_Grasslands_Winter_B_7
+  - first:
+      213: -2799982517916286926
+    second: FG_Grasslands_Winter_B_8
+  - first:
+      213: -7954630621640522758
+    second: FG_Grasslands_Winter_B_9
+  - first:
+      213: 549846131138840343
+    second: FG_Grasslands_Winter_B_10
+  - first:
+      213: 2694873805279138101
+    second: FG_Grasslands_Winter_B_11
+  - first:
+      213: 6408261329361067107
+    second: FG_Grasslands_Winter_B_12
+  - first:
+      213: -3444645872977055157
+    second: FG_Grasslands_Winter_B_13
+  - first:
+      213: -4800008093420087596
+    second: FG_Grasslands_Winter_B_14
+  - first:
+      213: -4370471063865965027
+    second: FG_Grasslands_Winter_B_15
+  - first:
+      213: 3624079260851091011
+    second: FG_Grasslands_Winter_B_16
+  - first:
+      213: 8489108746106423209
+    second: FG_Grasslands_Winter_B_17
+  - first:
+      213: 3334442148164859885
+    second: FG_Grasslands_Winter_B_18
+  - first:
+      213: -2797936241070548456
+    second: FG_Grasslands_Winter_B_19
+  - first:
+      213: 289076957890878649
+    second: FG_Grasslands_Winter_B_20
+  - first:
+      213: -2302535823875853853
+    second: FG_Grasslands_Winter_B_21
+  - first:
+      213: -1440231854562125953
+    second: FG_Grasslands_Winter_B_22
+  - first:
+      213: -1937849806834557346
+    second: FG_Grasslands_Winter_B_23
+  - first:
+      213: -6964789972185755918
+    second: FG_Grasslands_Winter_B_24
+  - first:
+      213: 2030287662659525655
+    second: FG_Grasslands_Winter_B_25
+  - first:
+      213: -6878272619735238366
+    second: FG_Grasslands_Winter_B_26
+  - first:
+      213: 3224149120827620213
+    second: FG_Grasslands_Winter_B_27
+  - first:
+      213: -2878792591052025927
+    second: FG_Grasslands_Winter_B_28
+  - first:
+      213: 4201362711100752806
+    second: FG_Grasslands_Winter_B_29
+  - first:
+      213: -994137271533477107
+    second: FG_Grasslands_Winter_B_30
+  - first:
+      213: -1228164374004212792
+    second: FG_Grasslands_Winter_B_31
+  - first:
+      213: -15828458658573169
+    second: FG_Grasslands_Winter_B_32
+  - first:
+      213: 492422916539086782
+    second: FG_Grasslands_Winter_B_33
+  - first:
+      213: -8242887248549231275
+    second: FG_Grasslands_Winter_B_34
+  - first:
+      213: 304482552400320933
+    second: FG_Grasslands_Winter_B_35
+  - first:
+      213: 8979682397841181300
+    second: FG_Grasslands_Winter_B_36
+  - first:
+      213: -5869488646056894126
+    second: FG_Grasslands_Winter_B_37
+  - first:
+      213: -2692862619839130322
+    second: FG_Grasslands_Winter_B_38
+  - first:
+      213: 2976830730752229662
+    second: FG_Grasslands_Winter_B_39
+  - first:
+      213: 8558793865196051810
+    second: FG_Grasslands_Winter_B_40
+  - first:
+      213: -7635908419107931765
+    second: FG_Grasslands_Winter_B_41
+  - first:
+      213: 1644514452456260609
+    second: FG_Grasslands_Winter_B_42
+  - first:
+      213: -8846030207498668682
+    second: FG_Grasslands_Winter_B_43
+  - first:
+      213: -310333202238676306
+    second: FG_Grasslands_Winter_B_44
+  - first:
+      213: -7513699990347648850
+    second: FG_Grasslands_Winter_B_45
+  - first:
+      213: 4483143355748043125
+    second: FG_Grasslands_Winter_B_46
+  - first:
+      213: 3080297523936986661
+    second: FG_Grasslands_Winter_B_47
+  - first:
+      213: -1408768693663365370
+    second: FG_Grasslands_Winter_B_48
+  - first:
+      213: 7030133310734618772
+    second: FG_Grasslands_Winter_B_49
+  - first:
+      213: -1725030762638170608
+    second: FG_Grasslands_Winter_B_50
+  - first:
+      213: -918983594358012725
+    second: FG_Grasslands_Winter_B_51
+  - first:
+      213: -3144689365436684618
+    second: FG_Grasslands_Winter_B_52
+  - first:
+      213: -3829731411271849348
+    second: FG_Grasslands_Winter_B_53
+  - first:
+      213: 2849362295356916113
+    second: FG_Grasslands_Winter_B_54
+  - first:
+      213: -6827647074640941980
+    second: FG_Grasslands_Winter_B_55
+  - first:
+      213: 125451782922476188
+    second: FG_Grasslands_Winter_B_56
+  - first:
+      213: 3754205033755479493
+    second: FG_Grasslands_Winter_B_57
+  - first:
+      213: -4702870804852116214
+    second: FG_Grasslands_Winter_B_58
+  - first:
+      213: -9045612168975488560
+    second: FG_Grasslands_Winter_B_59
+  - first:
+      213: -5306602508736406925
+    second: FG_Grasslands_Winter_B_60
+  - first:
+      213: 3735299592357832196
+    second: FG_Grasslands_Winter_B_61
+  - first:
+      213: -8574767660352621546
+    second: FG_Grasslands_Winter_B_62
+  - first:
+      213: 9072524542908165579
+    second: FG_Grasslands_Winter_B_63
+  - first:
+      213: 8594799325436395704
+    second: FG_Grasslands_Winter_B_64
+  - first:
+      213: 8662078901864595202
+    second: FG_Grasslands_Winter_B_65
+  - first:
+      213: 8128559301237378028
+    second: FG_Grasslands_Winter_B_66
+  - first:
+      213: 6918832108914913729
+    second: FG_Grasslands_Winter_B_67
+  - first:
+      213: -4857730428099214980
+    second: FG_Grasslands_Winter_B_68
+  - first:
+      213: 5934092394410175715
+    second: FG_Grasslands_Winter_B_69
+  - first:
+      213: -4702595248420609597
+    second: FG_Grasslands_Winter_B_70
+  - first:
+      213: -8476501738493804663
+    second: FG_Grasslands_Winter_B_71
+  - first:
+      213: 4791798856963391239
+    second: FG_Grasslands_Winter_B_72
+  - first:
+      213: -6168040469437982140
+    second: FG_Grasslands_Winter_B_73
+  - first:
+      213: -3557043026059884756
+    second: FG_Grasslands_Winter_B_74
+  - first:
+      213: -4635297379374919105
+    second: FG_Grasslands_Winter_B_75
+  - first:
+      213: 2939387186939558418
+    second: FG_Grasslands_Winter_B_76
+  - first:
+      213: 2837613560780346733
+    second: FG_Grasslands_Winter_B_77
+  - first:
+      213: 761483871909123533
+    second: FG_Grasslands_Winter_B_78
+  - first:
+      213: 2520396835761304278
+    second: FG_Grasslands_Winter_B_79
+  - first:
+      213: -7597116372921792347
+    second: FG_Grasslands_Winter_B_80
+  - first:
+      213: -5768010561651165587
+    second: FG_Grasslands_Winter_B_81
+  - first:
+      213: -2836344989279025199
+    second: FG_Grasslands_Winter_B_82
+  - first:
+      213: -107012112991413932
+    second: FG_Grasslands_Winter_B_83
+  - first:
+      213: -1830025054296517110
+    second: FG_Grasslands_Winter_B_84
+  - first:
+      213: -8442181661442009873
+    second: FG_Grasslands_Winter_B_85
+  - first:
+      213: -5699750014835738789
+    second: FG_Grasslands_Winter_B_86
+  - first:
+      213: -411355615903051433
+    second: FG_Grasslands_Winter_B_87
+  - first:
+      213: -1313783541515645032
+    second: FG_Grasslands_Winter_B_88
+  - first:
+      213: 7328655099256480630
+    second: FG_Grasslands_Winter_B_89
+  - first:
+      213: 4612977176411446399
+    second: FG_Grasslands_Winter_B_90
+  - first:
+      213: -1389783557284737580
+    second: FG_Grasslands_Winter_B_91
+  - first:
+      213: 4277602373365665100
+    second: FG_Grasslands_Winter_B_92
+  - first:
+      213: -273593610947351393
+    second: FG_Grasslands_Winter_B_93
+  - first:
+      213: 2091684207249758137
+    second: FG_Grasslands_Winter_B_94
+  - first:
+      213: -8731574801924742536
+    second: FG_Grasslands_Winter_B_95
+  - first:
+      213: 6500835214980066039
+    second: FG_Grasslands_Winter_B_96
+  - first:
+      213: -523409399987731319
+    second: FG_Grasslands_Winter_B_97
+  - first:
+      213: -5753718691235869154
+    second: FG_Grasslands_Winter_B_98
+  - first:
+      213: 4872822410893071112
+    second: FG_Grasslands_Winter_B_99
+  - first:
+      213: -1447879597427818620
+    second: FG_Grasslands_Winter_B_100
+  - first:
+      213: 8053811366542380117
+    second: FG_Grasslands_Winter_B_101
+  - first:
+      213: 3273883926488609761
+    second: FG_Grasslands_Winter_B_102
+  - first:
+      213: -3274168149095075502
+    second: FG_Grasslands_Winter_B_103
+  - first:
+      213: 8423093792518828788
+    second: FG_Grasslands_Winter_B_104
+  - first:
+      213: -4776275720839801744
+    second: FG_Grasslands_Winter_B_105
+  - first:
+      213: 4661622908231706627
+    second: FG_Grasslands_Winter_B_106
+  - first:
+      213: -1352419633863083111
+    second: FG_Grasslands_Winter_B_107
+  - first:
+      213: 3925441248525446147
+    second: FG_Grasslands_Winter_B_108
+  - first:
+      213: -9028110743145630719
+    second: FG_Grasslands_Winter_B_109
+  - first:
+      213: 2440268759761308771
+    second: FG_Grasslands_Winter_B_110
+  - first:
+      213: -1530967181319090986
+    second: FG_Grasslands_Winter_B_111
+  - first:
+      213: 5285527636056341895
+    second: FG_Grasslands_Winter_B_112
+  - first:
+      213: -711061592136735926
+    second: FG_Grasslands_Winter_B_113
+  - first:
+      213: -1327743458877067335
+    second: FG_Grasslands_Winter_B_114
+  - first:
+      213: 7822549961826236157
+    second: FG_Grasslands_Winter_B_115
+  - first:
+      213: 8255318858179674928
+    second: FG_Grasslands_Winter_B_116
+  - first:
+      213: -4074949601487752586
+    second: FG_Grasslands_Winter_B_117
+  - first:
+      213: 1726057617910392053
+    second: FG_Grasslands_Winter_B_118
+  - first:
+      213: 5746585388688053120
+    second: FG_Grasslands_Winter_B_119
+  - first:
+      213: -6531763140113597309
+    second: FG_Grasslands_Winter_B_120
+  - first:
+      213: -4960143945393008187
+    second: FG_Grasslands_Winter_B_121
+  - first:
+      213: -1970495037647893591
+    second: FG_Grasslands_Winter_B_122
+  - first:
+      213: 7348725453289677568
+    second: FG_Grasslands_Winter_B_123
+  - first:
+      213: 8911813986055762508
+    second: FG_Grasslands_Winter_B_124
+  - first:
+      213: -4460269437558718195
+    second: FG_Grasslands_Winter_B_125
+  - first:
+      213: -4677238662117671999
+    second: FG_Grasslands_Winter_B_126
+  - first:
+      213: -8836319512314667779
+    second: FG_Grasslands_Winter_B_127
+  - first:
+      213: -8197243178551080152
+    second: FG_Grasslands_Winter_B_128
+  - first:
+      213: 1876042966823535499
+    second: FG_Grasslands_Winter_B_129
+  - first:
+      213: -6067835479761676980
+    second: FG_Grasslands_Winter_B_130
+  - first:
+      213: -1575291465780483920
+    second: FG_Grasslands_Winter_B_131
+  - first:
+      213: -7335634386028271810
+    second: FG_Grasslands_Winter_B_132
+  - first:
+      213: 5891099475203030043
+    second: FG_Grasslands_Winter_B_133
+  - first:
+      213: -3059767291609193798
+    second: FG_Grasslands_Winter_B_134
+  - first:
+      213: 134514492771223933
+    second: FG_Grasslands_Winter_B_135
+  - first:
+      213: 7047689987911399332
+    second: FG_Grasslands_Winter_B_136
+  - first:
+      213: 262699276428352580
+    second: FG_Grasslands_Winter_B_137
+  - first:
+      213: -3405263681708467296
+    second: FG_Grasslands_Winter_B_138
+  - first:
+      213: -2398111803643873621
+    second: FG_Grasslands_Winter_B_139
+  - first:
+      213: -9001101454036380236
+    second: FG_Grasslands_Winter_B_140
+  - first:
+      213: 1020108056385076109
+    second: FG_Grasslands_Winter_B_141
+  - first:
+      213: -4587045876033025045
+    second: FG_Grasslands_Winter_B_142
+  - first:
+      213: -3406991777578737969
+    second: FG_Grasslands_Winter_B_143
+  - first:
+      213: 6073172463825245495
+    second: FG_Grasslands_Winter_B_144
+  - first:
+      213: 9036698705066452824
+    second: FG_Grasslands_Winter_B_145
+  - first:
+      213: 5810904852661575130
+    second: FG_Grasslands_Winter_B_146
+  - first:
+      213: 7042900670773391976
+    second: FG_Grasslands_Winter_B_147
+  - first:
+      213: 4705757514181869407
+    second: FG_Grasslands_Winter_B_148
+  - first:
+      213: 9156481888518562655
+    second: FG_Grasslands_Winter_B_149
+  - first:
+      213: 3061917785274019463
+    second: FG_Grasslands_Winter_B_150
+  - first:
+      213: -8192881788624446931
+    second: FG_Grasslands_Winter_B_151
+  - first:
+      213: 6967001201259141712
+    second: FG_Grasslands_Winter_B_152
+  - first:
+      213: 2708050698029579559
+    second: FG_Grasslands_Winter_B_153
+  - first:
+      213: 4568877369578362669
+    second: FG_Grasslands_Winter_B_154
+  - first:
+      213: -7471202151050000758
+    second: FG_Grasslands_Winter_B_155
+  - first:
+      213: 8002560376862052002
+    second: FG_Grasslands_Winter_B_156
+  - first:
+      213: -1113225720754467920
+    second: FG_Grasslands_Winter_B_157
+  - first:
+      213: 5574174529589744343
+    second: FG_Grasslands_Winter_B_158
+  - first:
+      213: 3731357989077665203
+    second: FG_Grasslands_Winter_B_159
+  - first:
+      213: 5570607379138773830
+    second: FG_Grasslands_Winter_B_160
+  - first:
+      213: 5879490320184689155
+    second: FG_Grasslands_Winter_B_161
+  - first:
+      213: -2996563922569262411
+    second: FG_Grasslands_Winter_B_162
+  - first:
+      213: -7364690068074856134
+    second: FG_Grasslands_Winter_B_163
+  - first:
+      213: -6457074073212448893
+    second: FG_Grasslands_Winter_B_164
+  - first:
+      213: -8879249533974419027
+    second: FG_Grasslands_Winter_B_165
+  - first:
+      213: -6290631165967509699
+    second: FG_Grasslands_Winter_B_166
+  - first:
+      213: -8717082486751939222
+    second: FG_Grasslands_Winter_B_167
+  - first:
+      213: 5297409227882107675
+    second: FG_Grasslands_Winter_B_168
+  - first:
+      213: 2461753282652350408
+    second: FG_Grasslands_Winter_B_169
+  - first:
+      213: -4093994158567687334
+    second: FG_Grasslands_Winter_B_170
+  - first:
+      213: -4922708353161788566
+    second: FG_Grasslands_Winter_B_171
+  - first:
+      213: -2195001542728456731
+    second: FG_Grasslands_Winter_B_172
+  - first:
+      213: -8403192215113628579
+    second: FG_Grasslands_Winter_B_173
+  - first:
+      213: -8756714724391392972
+    second: FG_Grasslands_Winter_B_174
+  - first:
+      213: -7679451525518697238
+    second: FG_Grasslands_Winter_B_175
+  - first:
+      213: -407339309945601657
+    second: FG_Grasslands_Winter_B_176
+  - first:
+      213: -8120626919583326790
+    second: FG_Grasslands_Winter_B_177
+  - first:
+      213: 4418229091660987570
+    second: FG_Grasslands_Winter_B_178
+  - first:
+      213: 8659661254183598171
+    second: FG_Grasslands_Winter_B_179
+  - first:
+      213: -1604893615658316986
+    second: FG_Grasslands_Winter_B_180
+  - first:
+      213: 4487869089411045437
+    second: FG_Grasslands_Winter_B_181
+  - first:
+      213: 4307780489508628277
+    second: FG_Grasslands_Winter_B_182
+  - first:
+      213: 100795205654783668
+    second: FG_Grasslands_Winter_B_183
+  - first:
+      213: -5838992493680997448
+    second: FG_Grasslands_Winter_B_184
+  - first:
+      213: 7063827292484203258
+    second: FG_Grasslands_Winter_B_185
+  - first:
+      213: 3326566999325173702
+    second: FG_Grasslands_Winter_B_186
+  - first:
+      213: 9177956372243243310
+    second: FG_Grasslands_Winter_B_187
+  - first:
+      213: -3684374715209519582
+    second: FG_Grasslands_Winter_B_188
+  - first:
+      213: -262944263163056891
+    second: FG_Grasslands_Winter_B_189
+  - first:
+      213: 1710567983128659067
+    second: FG_Grasslands_Winter_B_190
+  - first:
+      213: 5764286787786041145
+    second: FG_Grasslands_Winter_B_191
+  - first:
+      213: 5004208432892712940
+    second: FG_Grasslands_Winter_B_192
+  - first:
+      213: -8624698158212002400
+    second: FG_Grasslands_Winter_B_193
+  - first:
+      213: -9092777709613226219
+    second: FG_Grasslands_Winter_B_194
+  - first:
+      213: -4661529248453738252
+    second: FG_Grasslands_Winter_B_195
+  - first:
+      213: 2014354846590428004
+    second: FG_Grasslands_Winter_B_196
+  - first:
+      213: 1140777010335717368
+    second: FG_Grasslands_Winter_B_197
+  - first:
+      213: 7069921570558643031
+    second: FG_Grasslands_Winter_B_198
+  - first:
+      213: -5660260014528047740
+    second: FG_Grasslands_Winter_B_199
+  - first:
+      213: -7565994168738806353
+    second: FG_Grasslands_Winter_B_200
+  - first:
+      213: -1841474689952021115
+    second: FG_Grasslands_Winter_B_201
+  - first:
+      213: 7907781975767366276
+    second: FG_Grasslands_Winter_B_202
+  - first:
+      213: -1892888344428766576
+    second: FG_Grasslands_Winter_B_203
+  - first:
+      213: -6457041948551048718
+    second: FG_Grasslands_Winter_B_204
+  - first:
+      213: 4621405061989569692
+    second: FG_Grasslands_Winter_B_205
+  - first:
+      213: 5004565586659879535
+    second: FG_Grasslands_Winter_B_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 167
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d50a8a6b6e9b50800000000000000
+      internalID: 6601832209098069546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 695
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1710d7d0ab7648340800000000000000
+      internalID: 4865127546254852465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 383
+        width: 188
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbf815deb89c96f0800000000000000
+      internalID: -676497898626024488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 695
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8612c1859c3da9fd0800000000000000
+      internalID: -2334320595118055064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 647
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35e5a502e41b42c0800000000000000
+      internalID: -4446437246108310213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_5
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 647
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43473ebdd4641cdc0800000000000000
+      internalID: -3620535325213625292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 623
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73f830b7b335ed0800000000000000
+      internalID: -2426530374695831643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 503
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f0e27b58f956130800000000000000
+      internalID: 3559426477158961043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_8
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 383
+        width: 188
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230cb422cb67429d0800000000000000
+      internalID: -2799982517916286926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 503
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af30ca558997b9190800000000000000
+      internalID: -7954630621640522758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 455
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71747af942271a700800000000000000
+      internalID: 549846131138840343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_11
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 455
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5311b26a27d166520800000000000000
+      internalID: 2694873805279138101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_12
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 431
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c50740ab7bee850800000000000000
+      internalID: 6408261329361067107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 146
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ff2c34d82230d0800000000000000
+      internalID: -3444645872977055157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 299
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d612b01212f26db0800000000000000
+      internalID: -4800008093420087596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 353
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16452129b7f853c0800000000000000
+      internalID: -4370471063865965027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 365
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346b3e4f2e05b4230800000000000000
+      internalID: 3624079260851091011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 365
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7c5576d6f5fc570800000000000000
+      internalID: 8489108746106423209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 353
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f4759771564e20800000000000000
+      internalID: 3334442148164859885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 365
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5cc610dbbb29d0800000000000000
+      internalID: -2797936241070548456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 365
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc16db26f1030400800000000000000
+      internalID: 289076957890878649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 353
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b4471edfbb00e0800000000000000
+      internalID: -2302535823875853853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 365
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f775f9a42c4430ce0800000000000000
+      internalID: -1440231854562125953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 365
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e119b2edf5b15e0800000000000000
+      internalID: -1937849806834557346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_24
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe4aacdb68185f90800000000000000
+      internalID: -6964789972185755918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 350
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cddac4fd70d2c10800000000000000
+      internalID: 2030287662659525655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_26
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 350
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229b268be777b80a0800000000000000
+      internalID: -6878272619735238366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_27
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 365
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b71d90b8a7ebc20800000000000000
+      internalID: 3224149120827620213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 350
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf415414697c08d0800000000000000
+      internalID: -2878792591052025927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 350
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a38bbf302d3e4a30800000000000000
+      internalID: 4201362711100752806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 365
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0365403b6d1432f0800000000000000
+      internalID: -994137271533477107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 341
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb50b9420fa4fee0800000000000000
+      internalID: -1228164374004212792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 335
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f845058c914c7cff0800000000000000
+      internalID: -15828458658573169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 350
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7f29b980075d600800000000000000
+      internalID: 492422916539086782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 347
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55540aa58b16b9d80800000000000000
+      internalID: -8242887248549231275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 347
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a91028a44db93400800000000000000
+      internalID: 304482552400320933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 335
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac62f709d3e9c70800000000000000
+      internalID: 8979682397841181300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_37
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 335
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251279e9c236b8ea0800000000000000
+      internalID: -5869488646056894126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_38
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 335
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e259f83f6b701aad0800000000000000
+      internalID: -2692862619839130322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_39
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 350
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1104f617c3df4920800000000000000
+      internalID: 2976830730752229662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_40
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 341
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d9dc88ca1f6c670800000000000000
+      internalID: 8558793865196051810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_41
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 341
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8938a5efbdc70690800000000000000
+      internalID: -7635908419107931765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 305
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c6a67e2d72d610800000000000000
+      internalID: 1644514452456260609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 317
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675baa105669c3580800000000000000
+      internalID: -8846030207498668682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 317
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ed86c89971bbf0800000000000000
+      internalID: -310333202238676306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 317
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0f8760ba9f9b790800000000000000
+      internalID: -7513699990347648850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_46
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 317
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579c38c1123573e30800000000000000
+      internalID: 4483143355748043125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 317
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52687c4274a6fba20800000000000000
+      internalID: 3080297523936986661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 305
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607018b465c037ce0800000000000000
+      internalID: -1408768693663365370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_49
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 317
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4905af5bffc009160800000000000000
+      internalID: 7030133310734618772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_50
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 302
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016a45639a57f08e0800000000000000
+      internalID: -1725030762638170608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_51
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 302
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc401e73a4d1f33f0800000000000000
+      internalID: -918983594358012725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_52
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 314
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a234fea1db54d0800000000000000
+      internalID: -3144689365436684618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_53
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 317
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6cfd729f0adac0800000000000000
+      internalID: -3829731411271849348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_54
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 293
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191042b39e7fa8720800000000000000
+      internalID: 2849362295356916113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_55
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 287
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46caa48f8235f31a0800000000000000
+      internalID: -6827647074640941980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 287
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a988d5bb1bdb100800000000000000
+      internalID: 125451782922476188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_57
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 299
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd8afa669d991430800000000000000
+      internalID: 3754205033755479493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_58
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 299
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05fb3c7beb0cbeb0800000000000000
+      internalID: -4702870804852116214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_59
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 302
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e34478a7877280800000000000000
+      internalID: -9045612168975488560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_60
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 293
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ad19642292b56b0800000000000000
+      internalID: -5306602508736406925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_61
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 296
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4066624503376d330800000000000000
+      internalID: 3735299592357832196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 257
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614bc257e3e400980800000000000000
+      internalID: -8574767660352621546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 269
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcded04e00518ed70800000000000000
+      internalID: 9072524542908165579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b04764037cd64770800000000000000
+      internalID: 8594799325436395704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f7b0a1ed2e53870800000000000000
+      internalID: 8662078901864595202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 269
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb83f51e917ec070800000000000000
+      internalID: 8128559301237378028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 269
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1b0704521a40060800000000000000
+      internalID: 6918832108914913729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_68
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714a8ab9efd59cb0800000000000000
+      internalID: -4857730428099214980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_69
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 269
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec6a21b7912a5250800000000000000
+      internalID: 5934092394410175715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_70
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 269
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1237779860dbeb0800000000000000
+      internalID: -4702595248420609597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_71
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 257
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f781b449a6d5a80800000000000000
+      internalID: -8476501738493804663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_72
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 269
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ffc602ca3ef7240800000000000000
+      internalID: 4791798856963391239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_73
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 254
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5aea6fd7b66aa0800000000000000
+      internalID: -6168040469437982140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_74
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 266
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c278becb638d2aec0800000000000000
+      internalID: -3557043026059884756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_75
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 266
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f321f02a79d1cafb0800000000000000
+      internalID: -4635297379374919105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_76
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 254
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21afddea21dcac820800000000000000
+      internalID: 2939387186939558418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_77
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 269
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65d42ccf7a316720800000000000000
+      internalID: 2837613560780346733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 245
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc515570c85519a00800000000000000
+      internalID: 761483871909123533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_79
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 239
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23298819f3af220800000000000000
+      internalID: 2520396835761304278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_80
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 239
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a841baf8ee919690800000000000000
+      internalID: -7597116372921792347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 239
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b41454f8e3ffa0800000000000000
+      internalID: -5768010561651165587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_82
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 239
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d78095824743a8d0800000000000000
+      internalID: -2836344989279025199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_83
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4599b7adc01d38ef0800000000000000
+      internalID: -107012112991413932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_84
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 239
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a065794b8e17a96e0800000000000000
+      internalID: -1830025054296517110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_85
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 242
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe49e6ce18857da80800000000000000
+      internalID: -8442181661442009873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_86
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 245
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5730316f8b66e0b0800000000000000
+      internalID: -5699750014835738789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_87
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 245
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7519cbd2f329a4af0800000000000000
+      internalID: -411355615903051433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_88
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 242
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f843864d084cde0800000000000000
+      internalID: -1313783541515645032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_89
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 248
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673a980ebfc94b560800000000000000
+      internalID: 7328655099256480630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_90
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 209
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c1df42d46940040800000000000000
+      internalID: 4612977176411446399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd4d51d73f76bce0800000000000000
+      internalID: -1389783557284737580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_92
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 221
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d04d2e1b81d5b30800000000000000
+      internalID: 4277602373365665100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_93
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 218
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9caaa67f00043cf0800000000000000
+      internalID: -273593610947351393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 197
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b79a6b44b7270d10800000000000000
+      internalID: 2091684207249758137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 191
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8722681caf633d680800000000000000
+      internalID: -8731574801924742536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_96
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 197
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faac346f2b973a50800000000000000
+      internalID: 6500835214980066039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_97
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 158
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98481a18ce97cb8f0800000000000000
+      internalID: -523409399987731319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 158
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4c57b55fa620b0800000000000000
+      internalID: -5753718691235869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 155
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80318d65a2ebf9340800000000000000
+      internalID: 4872822410893071112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_100
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f77c56d2918ebe0800000000000000
+      internalID: -1447879597427818620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 158
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c03c654c2e4cf60800000000000000
+      internalID: 8053811366542380117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_102
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 158
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3f63ad51c2f6d20800000000000000
+      internalID: 3273883926488609761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_103
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 158
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2513a4a6a61df82d0800000000000000
+      internalID: -3274168149095075502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_104
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2f1e44d27d4e470800000000000000
+      internalID: 8423093792518828788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_105
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 146
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0745506a98247bdb0800000000000000
+      internalID: -4776275720839801744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_106
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 149
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30869f1365961b040800000000000000
+      internalID: 4661622908231706627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_107
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 167
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bb358228d3b3de0800000000000000
+      internalID: -1352419633863083111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_108
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 146
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c66058408f97630800000000000000
+      internalID: 3925441248525446147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_109
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 149
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104bae1bc15b5b280800000000000000
+      internalID: -9028110743145630719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_110
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 146
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4e0602839dd120800000000000000
+      internalID: 2440268759761308771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_111
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 155
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc1b2c579e0cae0800000000000000
+      internalID: -1530967181319090986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_112
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 158
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df5ad8167f95940800000000000000
+      internalID: 5285527636056341895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_113
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 155
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a432443df3dc126f0800000000000000
+      internalID: -711061592136735926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_114
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 164
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfa8ccdb58e29de0800000000000000
+      internalID: -1327743458877067335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_115
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6f560aeb74f8c60800000000000000
+      internalID: 7822549961826236157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 146
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033026153c8c09270800000000000000
+      internalID: 8255318858179674928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672f3bd6deed277c0800000000000000
+      internalID: -4074949601487752586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_118
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 119
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e769224034f710800000000000000
+      internalID: 1726057617910392053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_119
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083933cd6f8ffbf40800000000000000
+      internalID: 5746585388688053120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 119
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cf984e7048a55a0800000000000000
+      internalID: -6531763140113597309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_121
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 122
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19b049c570a2bb0800000000000000
+      internalID: -4960143945393008187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_122
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 119
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abc351143567a4e0800000000000000
+      internalID: -1970495037647893591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003e3335ddaebf560800000000000000
+      internalID: 7348725453289677568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_124
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 122
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42363f7a9f1dab70800000000000000
+      internalID: 8911813986055762508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_125
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 125
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0108cbf390f912c0800000000000000
+      internalID: -4460269437558718195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_126
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 104
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb0c6c73c171fb0800000000000000
+      internalID: -4677238662117671999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_127
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 101
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc91aa68361f5580800000000000000
+      internalID: -8836319512314667779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_128
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 122
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b08fc82ca8d3e80800000000000000
+      internalID: -8197243178551080152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_129
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 125
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8303ec732b090a10800000000000000
+      internalID: 1876042966823535499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_130
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 122
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c451b49a7c7bacba0800000000000000
+      internalID: -6067835479761676980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_131
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 122
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8237412c0732ae0800000000000000
+      internalID: -1575291465780483920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_132
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 122
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37e4aa4467923a90800000000000000
+      internalID: -7335634386028271810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_133
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 110
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c77f3a2c361c150800000000000000
+      internalID: 5891099475203030043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_134
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 101
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab266401cd58985d0800000000000000
+      internalID: -3059767291609193798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_135
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 101
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7945cee734edd100800000000000000
+      internalID: 134514492771223933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_136
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 101
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7398824bc6ec160800000000000000
+      internalID: 7047689987911399332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_137
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 101
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c934e999b45a300800000000000000
+      internalID: 262699276428352580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_138
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 101
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab5a3d29b21eb0d0800000000000000
+      internalID: -3405263681708467296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b224350238bed0800000000000000
+      internalID: -2398111803643873621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_140
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d8ecdae9a51380800000000000000
+      internalID: -9001101454036380236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_141
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bb85d5fd6282e00800000000000000
+      internalID: 1020108056385076109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 107
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb81a6341a8750c0800000000000000
+      internalID: -4587045876033025045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_143
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 98
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce1eb0870fe7b0d0800000000000000
+      internalID: -3406991777578737969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_144
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 101
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735dcf5cd2e384450800000000000000
+      internalID: 6073172463825245495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_145
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857e7b1089dc86d70800000000000000
+      internalID: 9036698705066452824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_146
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add9c7e0d2b74a050800000000000000
+      internalID: 5810904852661575130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_147
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 98
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862fecd58d86db160800000000000000
+      internalID: 7042900670773391976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_148
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 98
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f7fe7e6853e4140800000000000000
+      internalID: 4705757514181869407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_149
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 101
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f536275b3cb521f70800000000000000
+      internalID: 9156481888518562655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_150
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 98
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e65b2c00e1e7a20800000000000000
+      internalID: 3061917785274019463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_151
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 98
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad546cb690d4e80800000000000000
+      internalID: -8192881788624446931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 62
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a55c60ea2cfa060800000000000000
+      internalID: 6967001201259141712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_153
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 62
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d3dc113cde49520800000000000000
+      internalID: 2708050698029579559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_154
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 59
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d271a0cb2c9e76f30800000000000000
+      internalID: 4568877369578362669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86c78d4a35f05890800000000000000
+      internalID: -7471202151050000758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_156
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 62
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae8a7c634ece0f60800000000000000
+      internalID: 8002560376862052002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_157
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 62
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb0a97ea170d80f0800000000000000
+      internalID: -1113225720754467920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_158
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 62
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d21a3093327b5d40800000000000000
+      internalID: 5574174529589744343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_159
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b54acc425278c330800000000000000
+      internalID: 3731357989077665203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_160
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 50
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438cb0a5e5ce4d40800000000000000
+      internalID: 5570607379138773830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_161
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 53
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c4fa9b45289150800000000000000
+      internalID: 5879490320184689155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_162
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 71
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba02882df01a66d0800000000000000
+      internalID: -2996563922569262411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_163
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 50
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a310d83276d5bc990800000000000000
+      internalID: -7364690068074856134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_164
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 53
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f89c9675dd366a0800000000000000
+      internalID: -6457074073212448893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_165
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 50
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e667d79196c480800000000000000
+      internalID: -8879249533974419027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_166
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 59
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d375183a84033b8a0800000000000000
+      internalID: -6290631165967509699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_167
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 62
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a653f53d9a3b60780800000000000000
+      internalID: -8717082486751939222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_168
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 59
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b131ac930ad248940800000000000000
+      internalID: 5297409227882107675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_169
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 68
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c725215197e92220800000000000000
+      internalID: 2461753282652350408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_170
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 71
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b7c02f0063f27c0800000000000000
+      internalID: -4093994158567687334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_171
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 50
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6381fc95d60fabb0800000000000000
+      internalID: -4922708353161788566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_172
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e56c3cf9b9c981e0800000000000000
+      internalID: -2195001542728456731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_173
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 23
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5403dec33dd16b80800000000000000
+      internalID: -8403192215113628579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_174
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 26
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e73d6a56e97680800000000000000
+      internalID: -8756714724391392972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_175
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 23
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec50a7668b1d6590800000000000000
+      internalID: -7679451525518697238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_176
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 26
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781c3a74e07d85af0800000000000000
+      internalID: -407339309945601657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_177
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 23
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdd2c077dcbd4f80800000000000000
+      internalID: -8120626919583326790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_178
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcffb833f3b05d30800000000000000
+      internalID: 4418229091660987570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_179
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 26
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58b3d2a70c4d2870800000000000000
+      internalID: 8659661254183598171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_180
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 29
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bc46872c54ab9e0800000000000000
+      internalID: -1604893615658316986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_181
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d381dc8b82d184e30800000000000000
+      internalID: 4487869089411045437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_182
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 5
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5372587188f48cb30800000000000000
+      internalID: 4307780489508628277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_183
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 26
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6ad1c94b8166100800000000000000
+      internalID: 100795205654783668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_184
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 29
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbc8f7634bb7fea0800000000000000
+      internalID: -5838992493680997448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 26
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2fa3b2f71c70260800000000000000
+      internalID: 7063827292484203258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_186
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 26
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7605c9f075a2e20800000000000000
+      internalID: 3326566999325173702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_187
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 26
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21679391b6ae5f70800000000000000
+      internalID: 9177956372243243310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_188
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 14
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e618897b87edcc0800000000000000
+      internalID: -3684374715209519582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_189
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 5
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d6076f595d95cf0800000000000000
+      internalID: -262944263163056891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_190
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 5
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b744a8684882db710800000000000000
+      internalID: 1710567983128659067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_191
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937e6710b4cdeff40800000000000000
+      internalID: 5764286787786041145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_192
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 5
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce795986e05827540800000000000000
+      internalID: 5004208432892712940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_193
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 5
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adcec088baee4880800000000000000
+      internalID: -8624698158212002400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_194
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e9e449d6ffc180800000000000000
+      internalID: -9092777709613226219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_195
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f042dba8dbee4fb0800000000000000
+      internalID: -4661529248453738252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_196
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463eb9a7f0d64fb10800000000000000
+      internalID: 2014354846590428004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_197
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 11
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71ef495aad4df00800000000000000
+      internalID: 1140777010335717368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_198
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b050bd5386d1260800000000000000
+      internalID: 7069921570558643031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_199
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48555b19187b271b0800000000000000
+      internalID: -5660260014528047740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_200
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa585afc360300790800000000000000
+      internalID: -7565994168738806353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_201
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585898aa684c176e0800000000000000
+      internalID: -1841474689952021115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_202
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab9da4fc51ebd60800000000000000
+      internalID: 7907781975767366276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_203
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a98d6641c1bb5e0800000000000000
+      internalID: -1892888344428766576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_204
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 5
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f191d40f8af366a0800000000000000
+      internalID: -6457041948551048718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_205
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94941b2b67822040800000000000000
+      internalID: 4621405061989569692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Winter_B_206
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aa100c2e9c37540800000000000000
+      internalID: 5004565586659879535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

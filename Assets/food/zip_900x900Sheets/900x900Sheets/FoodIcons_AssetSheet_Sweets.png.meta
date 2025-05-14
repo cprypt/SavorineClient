@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 64d97f087d848b244a527fead753a8c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6013084503565936081
+    second: FoodIcons_AssetSheet_Sweets_0
+  - first:
+      213: 1623576468810954290
+    second: FoodIcons_AssetSheet_Sweets_1
+  - first:
+      213: 6081743460533115400
+    second: FoodIcons_AssetSheet_Sweets_2
+  - first:
+      213: -4622363894374522419
+    second: FoodIcons_AssetSheet_Sweets_3
+  - first:
+      213: -315487183958989267
+    second: FoodIcons_AssetSheet_Sweets_4
+  - first:
+      213: -5162327979762106376
+    second: FoodIcons_AssetSheet_Sweets_5
+  - first:
+      213: -4251336367942986142
+    second: FoodIcons_AssetSheet_Sweets_6
+  - first:
+      213: -1965940705248750730
+    second: FoodIcons_AssetSheet_Sweets_7
+  - first:
+      213: 834606403696171947
+    second: FoodIcons_AssetSheet_Sweets_8
+  - first:
+      213: 6073827837967609561
+    second: FoodIcons_AssetSheet_Sweets_9
+  - first:
+      213: 6731372975559015883
+    second: FoodIcons_AssetSheet_Sweets_10
+  - first:
+      213: -5594764990509553092
+    second: FoodIcons_AssetSheet_Sweets_11
+  - first:
+      213: -294723701934290181
+    second: FoodIcons_AssetSheet_Sweets_12
+  - first:
+      213: -7328871622576967313
+    second: FoodIcons_AssetSheet_Sweets_13
+  - first:
+      213: -7186016531693924118
+    second: FoodIcons_AssetSheet_Sweets_14
+  - first:
+      213: -1487564410359030345
+    second: FoodIcons_AssetSheet_Sweets_15
+  - first:
+      213: 630101025145759985
+    second: FoodIcons_AssetSheet_Sweets_16
+  - first:
+      213: 8755766242138116299
+    second: FoodIcons_AssetSheet_Sweets_17
+  - first:
+      213: -7681078174387327989
+    second: FoodIcons_AssetSheet_Sweets_18
+  - first:
+      213: 7882839044582112850
+    second: FoodIcons_AssetSheet_Sweets_19
+  - first:
+      213: 159504225547185781
+    second: FoodIcons_AssetSheet_Sweets_20
+  - first:
+      213: -564508291828339698
+    second: FoodIcons_AssetSheet_Sweets_21
+  - first:
+      213: -3848111131160537516
+    second: FoodIcons_AssetSheet_Sweets_22
+  - first:
+      213: 283224839045047967
+    second: FoodIcons_AssetSheet_Sweets_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2723
+        width: 853
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adb80b08b3d8ca0800000000000000
+      internalID: -6013084503565936081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_1
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2723
+        width: 853
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f821423a188610800000000000000
+      internalID: 1623576468810954290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_2
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2723
+        width: 853
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a91247471b66450800000000000000
+      internalID: 6081743460533115400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_3
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2723
+        width: 852
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1273547801adfb0800000000000000
+      internalID: -4622363894374522419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_4
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2723
+        width: 852
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26afe4e31a2f9bf0800000000000000
+      internalID: -315487183958989267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_5
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 2723
+        width: 852
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff3838bd0abb58b0800000000000000
+      internalID: -5162327979762106376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1823
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661f0019183005c0800000000000000
+      internalID: -4251336367942986142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1823
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673da26385397b4e0800000000000000
+      internalID: -1965940705248750730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_8
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1823
+        width: 854
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab939b2a1e159b00800000000000000
+      internalID: 834606403696171947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_9
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 1827
+        width: 849
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de20f4fc329a4450800000000000000
+      internalID: 6073827837967609561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_10
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1827
+        width: 849
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdfbd29e04aa6d50800000000000000
+      internalID: 6731372975559015883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_11
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 1827
+        width: 849
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ae2ea22e66b52b0800000000000000
+      internalID: -5594764990509553092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 923
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8157ca5ee8ebf0800000000000000
+      internalID: -294723701934290181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 923
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61fbdbd61e9a4a90800000000000000
+      internalID: -7328871622576967313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_14
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 923
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09c4e9904264c90800000000000000
+      internalID: -7186016531693924118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_15
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 923
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd590cdc0c1b5be0800000000000000
+      internalID: -1487564410359030345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_16
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 923
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82c604b819eb800800000000000000
+      internalID: 630101025145759985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_17
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 923
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0dff6d10bb28970800000000000000
+      internalID: 8755766242138116299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c23a3b814576590800000000000000
+      internalID: -7681078174387327989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 23
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e75e19858756d60800000000000000
+      internalID: 7882839044582112850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_20
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 23
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ee9ef7f3ca63200800000000000000
+      internalID: 159504225547185781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_21
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 23
+        width: 853
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c2fc013b67a28f0800000000000000
+      internalID: -564508291828339698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_22
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 23
+        width: 841
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45613fa7053c89ac0800000000000000
+      internalID: -3848111131160537516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Sweets_23
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 23
+        width: 850
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e8d29d773ee300800000000000000
+      internalID: 283224839045047967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

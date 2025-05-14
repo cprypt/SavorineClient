@@ -1,0 +1,5243 @@
+fileFormatVersion: 2
+guid: f5299a4dd2ad0034aaf8c7e8bbfad405
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7564891440784000525
+    second: FG_Grasslands_Fall_B_0
+  - first:
+      213: -9012721691355762276
+    second: FG_Grasslands_Fall_B_1
+  - first:
+      213: 2702256137361226248
+    second: FG_Grasslands_Fall_B_2
+  - first:
+      213: -8439408820663634075
+    second: FG_Grasslands_Fall_B_3
+  - first:
+      213: 6143871039513800678
+    second: FG_Grasslands_Fall_B_4
+  - first:
+      213: -8252605672990644009
+    second: FG_Grasslands_Fall_B_5
+  - first:
+      213: 4291389150736742995
+    second: FG_Grasslands_Fall_B_6
+  - first:
+      213: 2920552355654716239
+    second: FG_Grasslands_Fall_B_7
+  - first:
+      213: 2107974960473417403
+    second: FG_Grasslands_Fall_B_8
+  - first:
+      213: -4655391141368757614
+    second: FG_Grasslands_Fall_B_9
+  - first:
+      213: 3586524895393356601
+    second: FG_Grasslands_Fall_B_10
+  - first:
+      213: 7539559972428039889
+    second: FG_Grasslands_Fall_B_11
+  - first:
+      213: 1712859829195839002
+    second: FG_Grasslands_Fall_B_12
+  - first:
+      213: 3025630204598208673
+    second: FG_Grasslands_Fall_B_13
+  - first:
+      213: -570399957736389291
+    second: FG_Grasslands_Fall_B_14
+  - first:
+      213: -8249035520614548971
+    second: FG_Grasslands_Fall_B_15
+  - first:
+      213: 9165890582953719723
+    second: FG_Grasslands_Fall_B_16
+  - first:
+      213: 59257693992237556
+    second: FG_Grasslands_Fall_B_17
+  - first:
+      213: -2172451921845945790
+    second: FG_Grasslands_Fall_B_18
+  - first:
+      213: 4922312052371133747
+    second: FG_Grasslands_Fall_B_19
+  - first:
+      213: -4483403564402593663
+    second: FG_Grasslands_Fall_B_20
+  - first:
+      213: 7178869194807618240
+    second: FG_Grasslands_Fall_B_21
+  - first:
+      213: 4709969585649195362
+    second: FG_Grasslands_Fall_B_22
+  - first:
+      213: 1337172033557748854
+    second: FG_Grasslands_Fall_B_23
+  - first:
+      213: 1478642712323200669
+    second: FG_Grasslands_Fall_B_24
+  - first:
+      213: -4922580779692211616
+    second: FG_Grasslands_Fall_B_25
+  - first:
+      213: -7235373278918554301
+    second: FG_Grasslands_Fall_B_26
+  - first:
+      213: -8306346502164767389
+    second: FG_Grasslands_Fall_B_27
+  - first:
+      213: -802438988830754340
+    second: FG_Grasslands_Fall_B_28
+  - first:
+      213: 7740482662587822170
+    second: FG_Grasslands_Fall_B_29
+  - first:
+      213: -3923825633314137281
+    second: FG_Grasslands_Fall_B_30
+  - first:
+      213: -3698855142144810942
+    second: FG_Grasslands_Fall_B_31
+  - first:
+      213: -7255842457295048537
+    second: FG_Grasslands_Fall_B_32
+  - first:
+      213: -7706728083315176359
+    second: FG_Grasslands_Fall_B_33
+  - first:
+      213: -9094337641044086511
+    second: FG_Grasslands_Fall_B_34
+  - first:
+      213: -371006777747085058
+    second: FG_Grasslands_Fall_B_35
+  - first:
+      213: -5829043007913755025
+    second: FG_Grasslands_Fall_B_36
+  - first:
+      213: 7993004142736849033
+    second: FG_Grasslands_Fall_B_37
+  - first:
+      213: -5879536197026079227
+    second: FG_Grasslands_Fall_B_38
+  - first:
+      213: 2433568134081492346
+    second: FG_Grasslands_Fall_B_39
+  - first:
+      213: -3466561089303120545
+    second: FG_Grasslands_Fall_B_40
+  - first:
+      213: 8629952976094583431
+    second: FG_Grasslands_Fall_B_41
+  - first:
+      213: 5514021173018996268
+    second: FG_Grasslands_Fall_B_42
+  - first:
+      213: 4758742690576132459
+    second: FG_Grasslands_Fall_B_43
+  - first:
+      213: 360430777803188178
+    second: FG_Grasslands_Fall_B_44
+  - first:
+      213: 3940154129558987480
+    second: FG_Grasslands_Fall_B_45
+  - first:
+      213: -3895832462665809059
+    second: FG_Grasslands_Fall_B_46
+  - first:
+      213: 1233682445433109130
+    second: FG_Grasslands_Fall_B_47
+  - first:
+      213: -7043829315494922270
+    second: FG_Grasslands_Fall_B_48
+  - first:
+      213: 5836734938276258679
+    second: FG_Grasslands_Fall_B_49
+  - first:
+      213: -4465695532631065926
+    second: FG_Grasslands_Fall_B_50
+  - first:
+      213: -6690081408936448151
+    second: FG_Grasslands_Fall_B_51
+  - first:
+      213: -3387828696741992217
+    second: FG_Grasslands_Fall_B_52
+  - first:
+      213: -4612816009160724719
+    second: FG_Grasslands_Fall_B_53
+  - first:
+      213: -9074594855171140442
+    second: FG_Grasslands_Fall_B_54
+  - first:
+      213: -6878885518759112163
+    second: FG_Grasslands_Fall_B_55
+  - first:
+      213: -1498485443599707092
+    second: FG_Grasslands_Fall_B_56
+  - first:
+      213: 4456772114677854833
+    second: FG_Grasslands_Fall_B_57
+  - first:
+      213: -8821665415236100212
+    second: FG_Grasslands_Fall_B_58
+  - first:
+      213: -2693825353918159502
+    second: FG_Grasslands_Fall_B_59
+  - first:
+      213: -2192453583437455944
+    second: FG_Grasslands_Fall_B_60
+  - first:
+      213: -2671596343864031400
+    second: FG_Grasslands_Fall_B_61
+  - first:
+      213: 8216789234599680059
+    second: FG_Grasslands_Fall_B_62
+  - first:
+      213: -1176252721176904964
+    second: FG_Grasslands_Fall_B_63
+  - first:
+      213: -3453862053808525767
+    second: FG_Grasslands_Fall_B_64
+  - first:
+      213: 3024574866245163759
+    second: FG_Grasslands_Fall_B_65
+  - first:
+      213: 5493953377417496757
+    second: FG_Grasslands_Fall_B_66
+  - first:
+      213: -7856313357826726748
+    second: FG_Grasslands_Fall_B_67
+  - first:
+      213: 8453126604380958782
+    second: FG_Grasslands_Fall_B_68
+  - first:
+      213: 8964810413490053148
+    second: FG_Grasslands_Fall_B_69
+  - first:
+      213: -2603219672847743265
+    second: FG_Grasslands_Fall_B_70
+  - first:
+      213: -866550304533613550
+    second: FG_Grasslands_Fall_B_71
+  - first:
+      213: 3090698841157035324
+    second: FG_Grasslands_Fall_B_72
+  - first:
+      213: -6504106887632364266
+    second: FG_Grasslands_Fall_B_73
+  - first:
+      213: -313918122088371736
+    second: FG_Grasslands_Fall_B_74
+  - first:
+      213: -465630332077053730
+    second: FG_Grasslands_Fall_B_75
+  - first:
+      213: -6698448838980385459
+    second: FG_Grasslands_Fall_B_76
+  - first:
+      213: -2163017373146175964
+    second: FG_Grasslands_Fall_B_77
+  - first:
+      213: 2623403219741085151
+    second: FG_Grasslands_Fall_B_78
+  - first:
+      213: 5861514300844676203
+    second: FG_Grasslands_Fall_B_79
+  - first:
+      213: -8389118199681273927
+    second: FG_Grasslands_Fall_B_80
+  - first:
+      213: -1767638588865060448
+    second: FG_Grasslands_Fall_B_81
+  - first:
+      213: 2236953707457699740
+    second: FG_Grasslands_Fall_B_82
+  - first:
+      213: -363791859254119373
+    second: FG_Grasslands_Fall_B_83
+  - first:
+      213: 3989893391348230158
+    second: FG_Grasslands_Fall_B_84
+  - first:
+      213: -7086218508175501757
+    second: FG_Grasslands_Fall_B_85
+  - first:
+      213: -6189198553298868390
+    second: FG_Grasslands_Fall_B_86
+  - first:
+      213: -3104909325653071411
+    second: FG_Grasslands_Fall_B_87
+  - first:
+      213: 6583949730728766340
+    second: FG_Grasslands_Fall_B_88
+  - first:
+      213: 689512596438675202
+    second: FG_Grasslands_Fall_B_89
+  - first:
+      213: 1512881636249416139
+    second: FG_Grasslands_Fall_B_90
+  - first:
+      213: -3406522909338372609
+    second: FG_Grasslands_Fall_B_91
+  - first:
+      213: 3618192408677362652
+    second: FG_Grasslands_Fall_B_92
+  - first:
+      213: 5593826602563677490
+    second: FG_Grasslands_Fall_B_93
+  - first:
+      213: -5389611441243486221
+    second: FG_Grasslands_Fall_B_94
+  - first:
+      213: -3254713579621154496
+    second: FG_Grasslands_Fall_B_95
+  - first:
+      213: -6152584765404607333
+    second: FG_Grasslands_Fall_B_96
+  - first:
+      213: -8650380270750342331
+    second: FG_Grasslands_Fall_B_97
+  - first:
+      213: -4991338508617995102
+    second: FG_Grasslands_Fall_B_98
+  - first:
+      213: 5772998135726593624
+    second: FG_Grasslands_Fall_B_99
+  - first:
+      213: -202831895438408115
+    second: FG_Grasslands_Fall_B_100
+  - first:
+      213: -9118852826737377057
+    second: FG_Grasslands_Fall_B_101
+  - first:
+      213: -6033219979909132160
+    second: FG_Grasslands_Fall_B_102
+  - first:
+      213: -5009159180081232055
+    second: FG_Grasslands_Fall_B_103
+  - first:
+      213: -1124231404758063745
+    second: FG_Grasslands_Fall_B_104
+  - first:
+      213: 625221989591799309
+    second: FG_Grasslands_Fall_B_105
+  - first:
+      213: -7367701622602555834
+    second: FG_Grasslands_Fall_B_106
+  - first:
+      213: 8221092264901009597
+    second: FG_Grasslands_Fall_B_107
+  - first:
+      213: 8577592254245619937
+    second: FG_Grasslands_Fall_B_108
+  - first:
+      213: 6051746274511986456
+    second: FG_Grasslands_Fall_B_109
+  - first:
+      213: -2111773823123881045
+    second: FG_Grasslands_Fall_B_110
+  - first:
+      213: 5482574422042121199
+    second: FG_Grasslands_Fall_B_111
+  - first:
+      213: 128234214494027205
+    second: FG_Grasslands_Fall_B_112
+  - first:
+      213: 6176747109233828979
+    second: FG_Grasslands_Fall_B_113
+  - first:
+      213: -663791521359464621
+    second: FG_Grasslands_Fall_B_114
+  - first:
+      213: 8656561199532314217
+    second: FG_Grasslands_Fall_B_115
+  - first:
+      213: -750020604030177579
+    second: FG_Grasslands_Fall_B_116
+  - first:
+      213: -4835461208386292770
+    second: FG_Grasslands_Fall_B_117
+  - first:
+      213: -7790088387303984283
+    second: FG_Grasslands_Fall_B_118
+  - first:
+      213: -101823954991345796
+    second: FG_Grasslands_Fall_B_119
+  - first:
+      213: 5377405824750273539
+    second: FG_Grasslands_Fall_B_120
+  - first:
+      213: -3999764683309662801
+    second: FG_Grasslands_Fall_B_121
+  - first:
+      213: 8990468181462265940
+    second: FG_Grasslands_Fall_B_122
+  - first:
+      213: -9206939252721135218
+    second: FG_Grasslands_Fall_B_123
+  - first:
+      213: 8724109128122240264
+    second: FG_Grasslands_Fall_B_124
+  - first:
+      213: 5026653453688241616
+    second: FG_Grasslands_Fall_B_125
+  - first:
+      213: 5597424415002980370
+    second: FG_Grasslands_Fall_B_126
+  - first:
+      213: -6881820820798923400
+    second: FG_Grasslands_Fall_B_127
+  - first:
+      213: 7740024827093395246
+    second: FG_Grasslands_Fall_B_128
+  - first:
+      213: -1149589911074330100
+    second: FG_Grasslands_Fall_B_129
+  - first:
+      213: 3994633327643337400
+    second: FG_Grasslands_Fall_B_130
+  - first:
+      213: 2959375030409358782
+    second: FG_Grasslands_Fall_B_131
+  - first:
+      213: -3047987917500185786
+    second: FG_Grasslands_Fall_B_132
+  - first:
+      213: -6971660981766593530
+    second: FG_Grasslands_Fall_B_133
+  - first:
+      213: 9038099856890212782
+    second: FG_Grasslands_Fall_B_134
+  - first:
+      213: -5742438422889955270
+    second: FG_Grasslands_Fall_B_135
+  - first:
+      213: 7059056424117544460
+    second: FG_Grasslands_Fall_B_136
+  - first:
+      213: -1920638624598274552
+    second: FG_Grasslands_Fall_B_137
+  - first:
+      213: -164100359827773159
+    second: FG_Grasslands_Fall_B_138
+  - first:
+      213: -7539516270289721707
+    second: FG_Grasslands_Fall_B_139
+  - first:
+      213: 2787831071190862461
+    second: FG_Grasslands_Fall_B_140
+  - first:
+      213: 1029574955830667928
+    second: FG_Grasslands_Fall_B_141
+  - first:
+      213: 499504581556205786
+    second: FG_Grasslands_Fall_B_142
+  - first:
+      213: 7104187438992105716
+    second: FG_Grasslands_Fall_B_143
+  - first:
+      213: -8271066590917441457
+    second: FG_Grasslands_Fall_B_144
+  - first:
+      213: 1813690367945625172
+    second: FG_Grasslands_Fall_B_145
+  - first:
+      213: -4948332685079491655
+    second: FG_Grasslands_Fall_B_146
+  - first:
+      213: 1099134325787808408
+    second: FG_Grasslands_Fall_B_147
+  - first:
+      213: -5939658485702418539
+    second: FG_Grasslands_Fall_B_148
+  - first:
+      213: 8457411225432008104
+    second: FG_Grasslands_Fall_B_149
+  - first:
+      213: -6995774962993841531
+    second: FG_Grasslands_Fall_B_150
+  - first:
+      213: 1606544762832862796
+    second: FG_Grasslands_Fall_B_151
+  - first:
+      213: 4230589883517936130
+    second: FG_Grasslands_Fall_B_152
+  - first:
+      213: 6688573347742147283
+    second: FG_Grasslands_Fall_B_153
+  - first:
+      213: 5540951460769111205
+    second: FG_Grasslands_Fall_B_154
+  - first:
+      213: 9153425006148841769
+    second: FG_Grasslands_Fall_B_155
+  - first:
+      213: -5109807273046180906
+    second: FG_Grasslands_Fall_B_156
+  - first:
+      213: -1468353365926248359
+    second: FG_Grasslands_Fall_B_157
+  - first:
+      213: -1027063550867119662
+    second: FG_Grasslands_Fall_B_158
+  - first:
+      213: 5091107029221156807
+    second: FG_Grasslands_Fall_B_159
+  - first:
+      213: -6258987824196488240
+    second: FG_Grasslands_Fall_B_160
+  - first:
+      213: -1867255895083658049
+    second: FG_Grasslands_Fall_B_161
+  - first:
+      213: -359427851412864603
+    second: FG_Grasslands_Fall_B_162
+  - first:
+      213: 4795760285291084252
+    second: FG_Grasslands_Fall_B_163
+  - first:
+      213: -3690455570225599170
+    second: FG_Grasslands_Fall_B_164
+  - first:
+      213: -7410376762043808296
+    second: FG_Grasslands_Fall_B_165
+  - first:
+      213: -6329132356051449506
+    second: FG_Grasslands_Fall_B_166
+  - first:
+      213: -4213079374161755877
+    second: FG_Grasslands_Fall_B_167
+  - first:
+      213: -3701510026612386951
+    second: FG_Grasslands_Fall_B_168
+  - first:
+      213: 4802137834061793286
+    second: FG_Grasslands_Fall_B_169
+  - first:
+      213: -4859039655216516086
+    second: FG_Grasslands_Fall_B_170
+  - first:
+      213: -5289058141236514002
+    second: FG_Grasslands_Fall_B_171
+  - first:
+      213: 4195219976241262513
+    second: FG_Grasslands_Fall_B_172
+  - first:
+      213: -5410341129072368738
+    second: FG_Grasslands_Fall_B_173
+  - first:
+      213: 4104918125775897666
+    second: FG_Grasslands_Fall_B_174
+  - first:
+      213: -1059674289778848523
+    second: FG_Grasslands_Fall_B_175
+  - first:
+      213: 7354311092337616082
+    second: FG_Grasslands_Fall_B_176
+  - first:
+      213: 6517669113894250547
+    second: FG_Grasslands_Fall_B_177
+  - first:
+      213: 340244019941218103
+    second: FG_Grasslands_Fall_B_178
+  - first:
+      213: 3744907965743394141
+    second: FG_Grasslands_Fall_B_179
+  - first:
+      213: 7515159176866494566
+    second: FG_Grasslands_Fall_B_180
+  - first:
+      213: 3483273130286625338
+    second: FG_Grasslands_Fall_B_181
+  - first:
+      213: 5436882480538198777
+    second: FG_Grasslands_Fall_B_182
+  - first:
+      213: -8381736213727357513
+    second: FG_Grasslands_Fall_B_183
+  - first:
+      213: 3979950990149511434
+    second: FG_Grasslands_Fall_B_184
+  - first:
+      213: -3203902880737503924
+    second: FG_Grasslands_Fall_B_185
+  - first:
+      213: 8765423363130947231
+    second: FG_Grasslands_Fall_B_186
+  - first:
+      213: -5344266355951010787
+    second: FG_Grasslands_Fall_B_187
+  - first:
+      213: -5159618083178228708
+    second: FG_Grasslands_Fall_B_188
+  - first:
+      213: 1531014724249162569
+    second: FG_Grasslands_Fall_B_189
+  - first:
+      213: -2156173609704909990
+    second: FG_Grasslands_Fall_B_190
+  - first:
+      213: -1385540632911454480
+    second: FG_Grasslands_Fall_B_191
+  - first:
+      213: 1113104837616510361
+    second: FG_Grasslands_Fall_B_192
+  - first:
+      213: 4986061000238265996
+    second: FG_Grasslands_Fall_B_193
+  - first:
+      213: 2458746931961513742
+    second: FG_Grasslands_Fall_B_194
+  - first:
+      213: -7535286218512229631
+    second: FG_Grasslands_Fall_B_195
+  - first:
+      213: -7078390743996755885
+    second: FG_Grasslands_Fall_B_196
+  - first:
+      213: -8414268902105875686
+    second: FG_Grasslands_Fall_B_197
+  - first:
+      213: -4583066430185294328
+    second: FG_Grasslands_Fall_B_198
+  - first:
+      213: -2583737554231743495
+    second: FG_Grasslands_Fall_B_199
+  - first:
+      213: 6046414734338701441
+    second: FG_Grasslands_Fall_B_200
+  - first:
+      213: -1280128724083862345
+    second: FG_Grasslands_Fall_B_201
+  - first:
+      213: 5446464446280503358
+    second: FG_Grasslands_Fall_B_202
+  - first:
+      213: -9030270000189149221
+    second: FG_Grasslands_Fall_B_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 132
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c2545fa4ebf860800000000000000
+      internalID: 7564891440784000525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9138478f516ce280800000000000000
+      internalID: -9012721691355762276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80af887c3a7508520800000000000000
+      internalID: 2702256137361226248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 72
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567bb0a346231ea80800000000000000
+      internalID: -8439408820663634075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 194
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efa708a82a634550800000000000000
+      internalID: 6143871039513800678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 216
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8e4065ddad87d80800000000000000
+      internalID: -8252605672990644009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 207
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35af0a222b31e8b30800000000000000
+      internalID: 4291389150736742995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bcabac4e2e78820800000000000000
+      internalID: 2920552355654716239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 185
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6af6ade08014d10800000000000000
+      internalID: 2107974960473417403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 169
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29207381c6ab46fb0800000000000000
+      internalID: -4655391141368757614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 167
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b1400e365e5c130800000000000000
+      internalID: 3586524895393356601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 167
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6c35f39d5e1a860800000000000000
+      internalID: 7539559972428039889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16114580fc45c710800000000000000
+      internalID: 1712859829195839002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c4cef3a23df920800000000000000
+      internalID: 3025630204598208673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5558933b2488518f0800000000000000
+      internalID: -570399957736389291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 151
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ab03636e9858d80800000000000000
+      internalID: -8249035520614548971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7fd071ce8c33f70800000000000000
+      internalID: 9165890582953719723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9bd980f8682d000800000000000000
+      internalID: 59257693992237556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 129
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24af1cabc76e9d1e0800000000000000
+      internalID: -2172451921845945790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335943b6bb09f4440800000000000000
+      internalID: 4922312052371133747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18030175630c7c1c0800000000000000
+      internalID: -4483403564402593663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 113
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa0855f7770a360800000000000000
+      internalID: 7178869194807618240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2699387326c2d5140800000000000000
+      internalID: 4709969585649195362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cdbcf31e69e8210800000000000000
+      internalID: 1337172033557748854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d969eb176b1358410800000000000000
+      internalID: 1478642712323200669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 117
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062c740acda7fabb0800000000000000
+      internalID: -4922580779692211616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dc4b4665ac69b90800000000000000
+      internalID: -7235373278918554301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_27
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 115
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d192d7ddde9bc80800000000000000
+      internalID: -8306346502164767389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9b1dcbdf92dd4f0800000000000000
+      internalID: -802438988830754340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 117
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50fd9588f7bb6b60800000000000000
+      internalID: 7740482662587822170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b1db53065cb89c0800000000000000
+      internalID: -3923825633314137281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e4d878d60bacc0800000000000000
+      internalID: -3698855142144810942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a03bba6ab11e4b90800000000000000
+      internalID: -7255842457295048537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc875e3a33c0590800000000000000
+      internalID: -7706728083315176359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 111
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117a1e691c6ac180800000000000000
+      internalID: -9094337641044086511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 116
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef86f132d4be9daf0800000000000000
+      internalID: -371006777747085058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 116
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e73d494441b1fa0800000000000000
+      internalID: -5829043007913755025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 116
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883e084beadcee60800000000000000
+      internalID: 7993004142736849033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e953cdaf0b76ea0800000000000000
+      internalID: -5879536197026079227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7533a80355c5c120800000000000000
+      internalID: 2433568134081492346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5575ef4e0d44efc0800000000000000
+      internalID: -3466561089303120545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a51702280c3c770800000000000000
+      internalID: 8629952976094583431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ea7c5da0db58c40800000000000000
+      internalID: 5514021173018996268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69e641a3437a0240800000000000000
+      internalID: 4758742690576132459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 97
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7a31df1e1800500800000000000000
+      internalID: 360430777803188178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e6a41e4d3ea630800000000000000
+      internalID: 3940154129558987480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d538e5624093fe9c0800000000000000
+      internalID: -3895832462665809059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 95
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8afca5d5abee1110800000000000000
+      internalID: 1233682445433109130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7317fae8a4f3e90800000000000000
+      internalID: -7043829315494922270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7736114808f300150800000000000000
+      internalID: 5836734938276258679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaf976c299a602c0800000000000000
+      internalID: -4465695532631065926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe5e5776e0823a0800000000000000
+      internalID: -6690081408936448151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_52
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8a1d2ffb30cf0d0800000000000000
+      internalID: -3387828696741992217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 101
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f6db7874cfbffb0800000000000000
+      internalID: -4612816009160724719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4dfe8fe00901280800000000000000
+      internalID: -9074594855171140442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 100
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12d8cb011a4980a0800000000000000
+      internalID: -6878885518759112163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c245529ad6f443be0800000000000000
+      internalID: -1498485443599707092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1727d3410a2a9dd30800000000000000
+      internalID: 4456772114677854833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fd0854b06239580800000000000000
+      internalID: -8821665415236100212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27564c4fc1c9d9ad0800000000000000
+      internalID: -2693825353918159502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_60
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 97
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd9dacf417d291e0800000000000000
+      internalID: -2192453583437455944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 98
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85780cca7459cead0800000000000000
+      internalID: -2671596343864031400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 81
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3851924646e70270800000000000000
+      internalID: 8216789234599680059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 79
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaf924d16c1dafe0800000000000000
+      internalID: -1176252721176904964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eaa8be2ca6110d0800000000000000
+      internalID: -3453862053808525767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_65
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea1e13e0d279f920800000000000000
+      internalID: 3024574866245163759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_66
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 79
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b807811d717e3c40800000000000000
+      internalID: 5493953377417496757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e49620a4c8f290800000000000000
+      internalID: -7856313357826726748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_68
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 79
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30f78f2cd98f4570800000000000000
+      internalID: 8453126604380958782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c102ccec297696c70800000000000000
+      internalID: 8964810413490053148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd60a9fff718fdbd0800000000000000
+      internalID: -2603219672847743265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2147446d61569f3f0800000000000000
+      internalID: -866550304533613550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_72
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3560e6883e54ea20800000000000000
+      internalID: 3090698841157035324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d5085fe35ccb5a0800000000000000
+      internalID: -6504106887632364266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_74
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e96d54912db4abf0800000000000000
+      internalID: -313918122088371736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 85
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed866e31eafb989f0800000000000000
+      internalID: -465630332077053730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 79
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45427655445a03a0800000000000000
+      internalID: -6698448838980385459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426af96c82b6bf1e0800000000000000
+      internalID: -2163017373146175964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd88473453386420800000000000000
+      internalID: 2623403219741085151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_79
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 88
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6418b37338485150800000000000000
+      internalID: 5861514300844676203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 88
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfab31e17dd39b80800000000000000
+      internalID: -8389118199681273927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_81
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1ec6b91161877e0800000000000000
+      internalID: -1767638588865060448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_82
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 89
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f52088b814b0f10800000000000000
+      internalID: 2236953707457699740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334baf04b3d83faf0800000000000000
+      internalID: -363791859254119373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_84
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 81
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e086dfa66e2fe5730800000000000000
+      internalID: 3989893391348230158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346966bafc1b8ad90800000000000000
+      internalID: -7086218508175501757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57624225bc8b1aa0800000000000000
+      internalID: -6189198553298868390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_87
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 82
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9a6a83b6529e4d0800000000000000
+      internalID: -3104909325653071411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_88
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 65
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bed179563ee5b50800000000000000
+      internalID: 6583949730728766340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 63
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f62e2ad04a19900800000000000000
+      internalID: 689512596438675202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_90
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1bbd325d5def410800000000000000
+      internalID: 1512881636249416139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_91
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5f7a5667999b0d0800000000000000
+      internalID: -3406522909338372609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_92
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 72
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbaa3063d6663230800000000000000
+      internalID: 3618192408677362652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_93
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 65
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d20fc58a341ad40800000000000000
+      internalID: 5593826602563677490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70d4713f04435b0800000000000000
+      internalID: -5389611441243486221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_95
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0418a095e3fe4d2d0800000000000000
+      internalID: -3254713579621154496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c049fe0c0ad9aa0800000000000000
+      internalID: -6152584765404607333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_97
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e0e5b9fca3f780800000000000000
+      internalID: -8650380270750342331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_98
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aca81852143bbab0800000000000000
+      internalID: -4991338508617995102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_99
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856d9f0c73fcd1050800000000000000
+      internalID: 5772998135726593624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46464b37756f2df0800000000000000
+      internalID: -202831895438408115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_101
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08047faa3537180800000000000000
+      internalID: -9118852826737377057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 48
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801ab5c462b54ca0800000000000000
+      internalID: -6033219979909132160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_103
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 49
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9470fdfe344eb7ab0800000000000000
+      internalID: -5009159180081232055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_104
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ae0a6e7de560f0800000000000000
+      internalID: -1124231404758063745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_105
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06d163461c3da800800000000000000
+      internalID: 625221989591799309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_106
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 49
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e94b5f86aa0c990800000000000000
+      internalID: -7367701622602555834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_107
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e2239bdf271270800000000000000
+      internalID: 8221092264901009597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_108
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 51
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c37e85bab90770800000000000000
+      internalID: 8577592254245619937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f94135c2f1cf350800000000000000
+      internalID: 6051746274511986456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38bb285e871b2e0800000000000000
+      internalID: -2111773823123881045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_111
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe396709364061c40800000000000000
+      internalID: 5482574422042121199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_112
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdb7f2b65497c100800000000000000
+      internalID: 128234214494027205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_113
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 55
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374ad4125c638b550800000000000000
+      internalID: 6176747109233828979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f374d02db9c6f0800000000000000
+      internalID: -663791521359464621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_115
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e8d8aeb88422870800000000000000
+      internalID: 8656561199532314217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_116
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deae820c346795f0800000000000000
+      internalID: -750020604030177579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_117
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed334fc76adf4ecb0800000000000000
+      internalID: -4835461208386292770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563b9d9a2eb04e390800000000000000
+      internalID: -7790088387303984283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_119
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f8d1507af369ef0800000000000000
+      internalID: -101823954991345796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3044b5d5b1260aa40800000000000000
+      internalID: 5377405824750273539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_121
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadbc22563bfd78c0800000000000000
+      internalID: -3999764683309662801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_122
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450b2807d2f84cc70800000000000000
+      internalID: 8990468181462265940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_123
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d4f4b7816a3080800000000000000
+      internalID: -9206939252721135218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d087b9703421970800000000000000
+      internalID: 8724109128122240264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_125
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddf31c0fa242c540800000000000000
+      internalID: 5026653453688241616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 34
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210f95959db0ead40800000000000000
+      internalID: 5597424415002980370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d9468cc6cde70a0800000000000000
+      internalID: -6881820820798923400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_128
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e272b9362971a6b60800000000000000
+      internalID: 7740024827093395246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_129
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aaa011116db00f0800000000000000
+      internalID: -1149589911074330100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_130
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 33
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b22e16d8d9cf6730800000000000000
+      internalID: 3994633327643337400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_131
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebde5b429efc11920800000000000000
+      internalID: 2959375030409358782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_132
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 40
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64308b1532f53b5d0800000000000000
+      internalID: -3047987917500185786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_133
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 40
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604e957464faf3f90800000000000000
+      internalID: -6971660981766593530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_134
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 36
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea133761fe7cd6d70800000000000000
+      internalID: 9038099856890212782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30071bdda2ce40b0800000000000000
+      internalID: -5742438422889955270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 33
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0627f0da6ec6f160800000000000000
+      internalID: 7059056424117544460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ecceec8558855e0800000000000000
+      internalID: -1920638624598274552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_138
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 33
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a3f8979ff8bdf0800000000000000
+      internalID: -164100359827773159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 33
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966a13f5e14e5790800000000000000
+      internalID: -7539516270289721707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_140
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ac024b69d50b620800000000000000
+      internalID: 2787831071190862461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aece7a7f8c94e00800000000000000
+      internalID: 1029574955830667928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_142
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8765b35c89ee600800000000000000
+      internalID: 499504581556205786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_143
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0aaee06d4279260800000000000000
+      internalID: 7104187438992105716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_144
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48c3cee1c4473d80800000000000000
+      internalID: -8271066590917441457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_145
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e42f1c7c58b2910800000000000000
+      internalID: 1813690367945625172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_146
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc16be3adf35bb0800000000000000
+      internalID: -4948332685079491655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_147
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892550988d8e04f00800000000000000
+      internalID: 1099134325787808408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f9290b318129da0800000000000000
+      internalID: -5939658485702418539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_149
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5a64343b2ce5570800000000000000
+      internalID: 8457411225432008104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_150
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a3e228cb30aee90800000000000000
+      internalID: -6995774962993841531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_151
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eba6033f79b4610800000000000000
+      internalID: 1606544762832862796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_152
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202a27d951316ba30800000000000000
+      internalID: 4230589883517936130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_153
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e05ea50692dc50800000000000000
+      internalID: 6688573347742147283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_154
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac13d01ff965ec40800000000000000
+      internalID: 5540951460769111205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921fda1db8f770f70800000000000000
+      internalID: 9153425006148841769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_156
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbff5bab515619b0800000000000000
+      internalID: -5109807273046180906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_157
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 16
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9508733b46c5f9be0800000000000000
+      internalID: -1468353365926248359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_158
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d160d064232fb1f0800000000000000
+      internalID: -1027063550867119662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_159
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a8368ede37a640800000000000000
+      internalID: 5091107029221156807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_160
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3f5454cbb9329a0800000000000000
+      internalID: -6258987824196488240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_161
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 17
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d8c418ac2616e0800000000000000
+      internalID: -1867255895083658049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_162
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 16
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a18722064e030bf0800000000000000
+      internalID: -359427851412864603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_163
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 19
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd973b80296fd8240800000000000000
+      internalID: 4795760285291084252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_164
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6755363ed8ccc0800000000000000
+      internalID: -3690455570225599170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_165
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5c196c89d092990800000000000000
+      internalID: -7410376762043808296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_166
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e594f15c7a76a28a0800000000000000
+      internalID: -6329132356051449506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_167
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 16
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11409c81a22885c0800000000000000
+      internalID: -4213079374161755877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_168
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 23
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973d8330e3891acc0800000000000000
+      internalID: -3701510026612386951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60887b1daee94a240800000000000000
+      internalID: 4802137834061793286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_170
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0478498d29319cb0800000000000000
+      internalID: -4859039655216516086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_171
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23b537a4ad7996b0800000000000000
+      internalID: -5289058141236514002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_172
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfab76575a683a30800000000000000
+      internalID: 4195219976241262513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93a4f7886b9ae4b0800000000000000
+      internalID: -5410341129072368738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_174
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2444fee594997f830800000000000000
+      internalID: 4104918125775897666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc0e1c09d74b41f0800000000000000
+      internalID: -1059674289778848523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_176
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4af7249f2cf0660800000000000000
+      internalID: 7354311092337616082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_177
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a339e689637a50800000000000000
+      internalID: 6517669113894250547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_178
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7371c89222ac8b400800000000000000
+      internalID: 340244019941218103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6aa614f598f330800000000000000
+      internalID: 3744907965743394141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_180
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668f4af44753b4860800000000000000
+      internalID: 7515159176866494566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_181
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b562f472175030800000000000000
+      internalID: 3483273130286625338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2260a6fcfa37b40800000000000000
+      internalID: 5436882480538198777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_183
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d0cb62571eab80800000000000000
+      internalID: -8381736213727357513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_184
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09635fb650ab3730800000000000000
+      internalID: 3979950990149511434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_185
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455ac21e437983d0800000000000000
+      internalID: -3203902880737503924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_186
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9674598b1a05a970800000000000000
+      internalID: 8765423363130947231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf77c701a55d5b0800000000000000
+      internalID: -5344266355951010787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_188
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14da7fa0ba5568b0800000000000000
+      internalID: -5159618083178228708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_189
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94393c0b7c14f3510800000000000000
+      internalID: 1531014724249162569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53977f968bb312e0800000000000000
+      internalID: -2156173609704909990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_191
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe5171a22295cce0800000000000000
+      internalID: -1385540632911454480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_192
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995a6ebc3fa827f00800000000000000
+      internalID: 1113104837616510361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_193
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8671abff0c023540800000000000000
+      internalID: 4986061000238265996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_194
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c520ce493f1220800000000000000
+      internalID: 2458746931961513742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_195
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b9ea0ab194d6790800000000000000
+      internalID: -7535286218512229631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_196
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35019aa0f1184cd90800000000000000
+      internalID: -7078390743996755885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_197
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bfc55a3038a3b80800000000000000
+      internalID: -8414268902105875686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_198
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806b9c62d5da560c0800000000000000
+      internalID: -4583066430185294328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_199
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb2e273268b42cd0800000000000000
+      internalID: -2583737554231743495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_200
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18832f46a2e29e350800000000000000
+      internalID: 6046414734338701441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_201
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4153635b11c3ee0800000000000000
+      internalID: -1280128724083862345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_202
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30185aae8ab59b40800000000000000
+      internalID: 5446464446280503358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FG_Grasslands_Fall_B_203
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfebdc77490ea280800000000000000
+      internalID: -9030270000189149221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

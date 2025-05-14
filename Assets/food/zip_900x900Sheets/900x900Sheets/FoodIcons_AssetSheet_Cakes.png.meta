@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: 3da5936abb040984aa229e5f9ee87cd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8179950724513310194
+    second: FoodIcons_AssetSheet_Cakes_0
+  - first:
+      213: -3683878211802058773
+    second: FoodIcons_AssetSheet_Cakes_1
+  - first:
+      213: 360321749183491819
+    second: FoodIcons_AssetSheet_Cakes_2
+  - first:
+      213: -4056030454898687330
+    second: FoodIcons_AssetSheet_Cakes_3
+  - first:
+      213: 5928539316584614365
+    second: FoodIcons_AssetSheet_Cakes_4
+  - first:
+      213: -1142786936346818808
+    second: FoodIcons_AssetSheet_Cakes_5
+  - first:
+      213: 8177054193824472515
+    second: FoodIcons_AssetSheet_Cakes_6
+  - first:
+      213: -6154175774066961634
+    second: FoodIcons_AssetSheet_Cakes_7
+  - first:
+      213: -5902074960550493423
+    second: FoodIcons_AssetSheet_Cakes_8
+  - first:
+      213: -1814146161309476717
+    second: FoodIcons_AssetSheet_Cakes_9
+  - first:
+      213: -1984913532586715527
+    second: FoodIcons_AssetSheet_Cakes_10
+  - first:
+      213: 7866310422874425515
+    second: FoodIcons_AssetSheet_Cakes_11
+  - first:
+      213: 3273103860240258418
+    second: FoodIcons_AssetSheet_Cakes_12
+  - first:
+      213: 2618688727943369056
+    second: FoodIcons_AssetSheet_Cakes_13
+  - first:
+      213: 3645088493808639180
+    second: FoodIcons_AssetSheet_Cakes_14
+  - first:
+      213: 6649809216482105456
+    second: FoodIcons_AssetSheet_Cakes_15
+  - first:
+      213: -3140826617220109897
+    second: FoodIcons_AssetSheet_Cakes_16
+  - first:
+      213: 4604762222889696392
+    second: FoodIcons_AssetSheet_Cakes_17
+  - first:
+      213: -6645470254603152888
+    second: FoodIcons_AssetSheet_Cakes_18
+  - first:
+      213: 503589455812151567
+    second: FoodIcons_AssetSheet_Cakes_19
+  - first:
+      213: -4148296246745034570
+    second: FoodIcons_AssetSheet_Cakes_20
+  - first:
+      213: -5599279621592931261
+    second: FoodIcons_AssetSheet_Cakes_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2722
+        width: 855
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5a0de38d5058170800000000000000
+      internalID: 8179950724513310194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_1
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2722
+        width: 855
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befacbdc84c30ecc0800000000000000
+      internalID: -3683878211802058773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_2
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2722
+        width: 855
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeede8c8be100500800000000000000
+      internalID: 360321749183491819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_3
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2723
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9209918ac516b7c0800000000000000
+      internalID: -4056030454898687330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_4
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2723
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd986f10917664250800000000000000
+      internalID: 5928539316584614365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_5
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 2723
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807471d06510420f0800000000000000
+      internalID: -1142786936346818808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1823
+        width: 854
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd9604277bba7170800000000000000
+      internalID: 8177054193824472515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1823
+        width: 854
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e139c6d5db9f79aa0800000000000000
+      internalID: -6154175774066961634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_8
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1823
+        width: 854
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11309aa081e971ea0800000000000000
+      internalID: -5902074960550493423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_9
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1823
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39892849dabd2d6e0800000000000000
+      internalID: -1814146161309476717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_10
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 1823
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769d4c98ab2474e0800000000000000
+      internalID: -1984913532586715527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_11
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 1823
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba80260f6afba2d60800000000000000
+      internalID: 7866310422874425515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 924
+        width: 858
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27594968e966c6d20800000000000000
+      internalID: 3273103860240258418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 924
+        width: 858
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061526e0683775420800000000000000
+      internalID: 2618688727943369056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_14
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 924
+        width: 858
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccd3503ca4f59230800000000000000
+      internalID: 3645088493808639180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_15
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 923
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078d88c004ed84c50800000000000000
+      internalID: 6649809216482105456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_16
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 923
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9e08b15da8964d0800000000000000
+      internalID: -3140826617220109897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_17
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 923
+        width: 854
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c7a7a38d667ef30800000000000000
+      internalID: 4604762222889696392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 23
+        width: 853
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80254fc330c86c3a0800000000000000
+      internalID: -6645470254603152888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 23
+        width: 853
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09c05221fb1df600800000000000000
+      internalID: 503589455812151567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_20
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 23
+        width: 853
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01dadca8a4e66c0800000000000000
+      internalID: -4148296246745034570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoodIcons_AssetSheet_Cakes_21
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 23
+        width: 853
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344aed4b9dc5b42b0800000000000000
+      internalID: -5599279621592931261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
