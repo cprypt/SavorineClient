@@ -17,3 +17,11 @@
         await _connection.StartAsync();
         await _connection.InvokeAsync("JoinRoom", Room);
     }
+    async void OnApplicationQuit()
+    {
+        if (_connection.State == HubConnectionState.Connected)
+        {
+            await _connection.InvokeAsync("LeaveRoom", Room);
+            await _connection.StopAsync();
+        }
+    }
