@@ -21,6 +21,9 @@ public class SellPageController : MonoBehaviour
     public TextMeshProUGUI selectedFoodPriceText;
     public TextMeshProUGUI purchaseMessageText;
 
+    public GoldManager goldManager;
+    public int selectedSellPrice;
+
     private int selectedIndex = -1;
 
     void Start()
@@ -46,13 +49,10 @@ public class SellPageController : MonoBehaviour
         selectedIndex = index;
     }
 
-    public void ConfirmPurchase()
-    {
-        if (selectedIndex != -1)
-        {
-            purchaseMessageText.text = "구매 완료!";
-            // 추후 재화 차감 기능 추가 가능
-        }
+    public void SellItem()
+    {   
+    goldManager.AddGold(selectedSellPrice);
+    // 메시지 출력 없음
     }
 
     private void ClearDisplay()

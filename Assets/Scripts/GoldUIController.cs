@@ -7,11 +7,17 @@ public class GoldUIController : MonoBehaviour
 
     private void Start()
     {
-        GoldManager.Instance.OnGoldChanged.AddListener(UpdateGoldText);
+        // 코드로도 이벤트 리스너 등록 가능
+        GoldManager.Instance.OnGoldChanged.AddListener(UpdateGoldUI);
     }
 
-    private void UpdateGoldText(int newGold)
+    // 인스펙터에서 연결 가능한 public 메서드
+    public void UpdateGoldUI(int newGold)
     {
-        currentGoldText.text = $"{newGold}G";
+        if (currentGoldText != null)
+        {
+            currentGoldText.text = $"{newGold}G";
+        }
     }
 }
+

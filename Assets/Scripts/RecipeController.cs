@@ -4,7 +4,6 @@ using TMPro;
 
 public class RecipeController : MonoBehaviour
 {
-
     [System.Serializable]
     public class RecipeData
     {
@@ -18,6 +17,10 @@ public class RecipeController : MonoBehaviour
     public Image recipeImage;
     public TextMeshProUGUI recipeNameText;
     public TextMeshProUGUI recipePriceText;
+
+    public GoldManager goldManager;
+    public TextMeshProUGUI recipeMessageText;
+    public int selectedRecipePrice;
 
     void Start()
     {
@@ -39,5 +42,21 @@ public class RecipeController : MonoBehaviour
         Color c = recipeImage.color;
         c.a = 1f;
         recipeImage.color = c;
+
+        // ✅ 선택한 레시피 가격 저장
+        selectedRecipePrice = selected.recipePrice;
+    }
+
+    public void BuyRecipe()
+    {
+        if (goldManager.TrySpendGold(selectedRecipePrice))
+        {
+            recipeMessageText.text = "구매 완료";
+        }
+        else
+        {
+            recipeMessageText.text = "골드 부족";
+        }
     }
 }
+

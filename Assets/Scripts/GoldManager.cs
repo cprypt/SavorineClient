@@ -11,6 +11,11 @@ public class GoldManager : MonoBehaviour
     [SerializeField] private int startingGold = 0;
     private int currentGold;
 
+    private void Start()
+    {
+        currentGold = startingGold;
+        OnGoldChanged.Invoke(currentGold); // 초기 상태도 알려줌
+    }
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -19,12 +24,6 @@ public class GoldManager : MonoBehaviour
             return;
         }
         Instance = this;
-    }
-
-    private void Start()
-    {
-        currentGold = startingGold;
-        OnGoldChanged.Invoke(currentGold); // 초기 상태도 알려줌
     }
 
     public void AddGold(int amount)
