@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight_11_Pickaxe_Right_0: 425040778210871588
+      Knight_11_Pickaxe_Right_1: 5625181949734096646
+      Knight_11_Pickaxe_Right_2: -4131228381516587791
+      Knight_11_Pickaxe_Right_3: 1268621964474667588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

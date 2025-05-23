@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cheese_Swiss_0: -741657831624690350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

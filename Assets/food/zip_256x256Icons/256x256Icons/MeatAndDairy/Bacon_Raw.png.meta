@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bacon_Raw_0: 3160484278442894849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

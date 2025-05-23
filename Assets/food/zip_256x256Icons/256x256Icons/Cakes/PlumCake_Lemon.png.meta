@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlumCake_Lemon_0: 4857200664211429083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

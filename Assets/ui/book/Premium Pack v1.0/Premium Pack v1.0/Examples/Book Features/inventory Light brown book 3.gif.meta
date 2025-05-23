@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      inventory Light brown book 3_0: -3827443636025156172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

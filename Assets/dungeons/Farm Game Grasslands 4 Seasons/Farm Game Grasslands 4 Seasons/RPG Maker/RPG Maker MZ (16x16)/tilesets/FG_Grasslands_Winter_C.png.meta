@@ -985,7 +985,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Grasslands_Winter_C_0: 5399207086996766113
+      FG_Grasslands_Winter_C_1: 6599921054211721473
+      FG_Grasslands_Winter_C_10: 4458492878870979403
+      FG_Grasslands_Winter_C_11: -7251420546440629624
+      FG_Grasslands_Winter_C_12: 3741124659370412404
+      FG_Grasslands_Winter_C_13: -4700717990505499843
+      FG_Grasslands_Winter_C_14: -3591775390049768344
+      FG_Grasslands_Winter_C_15: -7166793751257125240
+      FG_Grasslands_Winter_C_16: 7609746599791452507
+      FG_Grasslands_Winter_C_17: 7648173987177389397
+      FG_Grasslands_Winter_C_18: -6249341494649331419
+      FG_Grasslands_Winter_C_19: 6197206844773313644
+      FG_Grasslands_Winter_C_2: 8091346332092865172
+      FG_Grasslands_Winter_C_20: 479018125239206799
+      FG_Grasslands_Winter_C_21: -6239037984920427505
+      FG_Grasslands_Winter_C_22: -1032838972389387869
+      FG_Grasslands_Winter_C_23: 7302272405822558058
+      FG_Grasslands_Winter_C_24: -7401775352121388144
+      FG_Grasslands_Winter_C_25: 5334909958418279679
+      FG_Grasslands_Winter_C_26: 2790823994973262267
+      FG_Grasslands_Winter_C_27: 170027111709662159
+      FG_Grasslands_Winter_C_28: -2766529965869819853
+      FG_Grasslands_Winter_C_29: 5724124097385749532
+      FG_Grasslands_Winter_C_3: -5388568546372930171
+      FG_Grasslands_Winter_C_30: -7776866506288717872
+      FG_Grasslands_Winter_C_31: -8889791277327056046
+      FG_Grasslands_Winter_C_32: 5351473728549911316
+      FG_Grasslands_Winter_C_33: 9055761140754726016
+      FG_Grasslands_Winter_C_4: 8954627372631203480
+      FG_Grasslands_Winter_C_5: -4247711149523074444
+      FG_Grasslands_Winter_C_6: -7585791443259013151
+      FG_Grasslands_Winter_C_7: 8451655936636542560
+      FG_Grasslands_Winter_C_8: 3267123268283899912
+      FG_Grasslands_Winter_C_9: -7527719199850258570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

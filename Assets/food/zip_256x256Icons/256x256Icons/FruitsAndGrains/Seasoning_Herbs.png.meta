@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seasoning_Herbs_0: 9192798468711247309
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Treasure_Small_3_0: 4221009124371354916
+      FG_Treasure_Small_3_1: 5695482346364765604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

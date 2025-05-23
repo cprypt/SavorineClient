@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stew_Paprika_0: -2698351779490857502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

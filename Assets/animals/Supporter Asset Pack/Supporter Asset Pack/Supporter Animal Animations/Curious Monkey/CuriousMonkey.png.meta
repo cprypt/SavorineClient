@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuriousMonkey_0: -7184322647327433318
+      CuriousMonkey_1: -7695473977156773110
+      CuriousMonkey_2: 5119630656428378512
+      CuriousMonkey_3: -7187866839462120752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

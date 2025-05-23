@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MergedGrill_Green_0: 4085147389967214077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

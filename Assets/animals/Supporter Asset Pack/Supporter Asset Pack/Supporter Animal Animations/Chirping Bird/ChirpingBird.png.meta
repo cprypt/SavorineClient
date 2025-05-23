@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChirpingBird_0: -7244443367610948352
+      ChirpingBird_1: 1198886221940749632
+      ChirpingBird_2: -8367829732106060834
+      ChirpingBird_3: 6336981660294636028
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

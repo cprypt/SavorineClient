@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Drinkbox_Purple_0: -3569714317370430569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

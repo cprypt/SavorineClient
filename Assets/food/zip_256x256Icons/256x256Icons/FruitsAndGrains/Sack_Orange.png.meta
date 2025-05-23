@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sack_Orange_0: -4086664533328552056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

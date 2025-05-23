@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Onigiri_Pork_0: 1575720990678721896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

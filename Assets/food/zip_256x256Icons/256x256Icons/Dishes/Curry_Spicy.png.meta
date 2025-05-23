@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Curry_Spicy_0: 2410357733712091214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

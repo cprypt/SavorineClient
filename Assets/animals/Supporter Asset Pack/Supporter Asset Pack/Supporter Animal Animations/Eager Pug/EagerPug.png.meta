@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EagerPug_0: 1110349484189158470
+      EagerPug_1: 27020533526081387
+      EagerPug_2: -9168980617446920804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

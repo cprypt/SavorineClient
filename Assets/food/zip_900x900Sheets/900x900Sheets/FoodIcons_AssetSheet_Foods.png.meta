@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoodIcons_AssetSheet_Foods_0: -7225047041349441686
+      FoodIcons_AssetSheet_Foods_1: 3952724815053420419
+      FoodIcons_AssetSheet_Foods_10: -1528450670947698393
+      FoodIcons_AssetSheet_Foods_11: -539412372415300449
+      FoodIcons_AssetSheet_Foods_12: -2558938802269859917
+      FoodIcons_AssetSheet_Foods_13: -1776039606042763886
+      FoodIcons_AssetSheet_Foods_14: -693928928003794025
+      FoodIcons_AssetSheet_Foods_15: 8021571730042155462
+      FoodIcons_AssetSheet_Foods_16: -4186514084294661404
+      FoodIcons_AssetSheet_Foods_17: 4440414166072252387
+      FoodIcons_AssetSheet_Foods_18: 3318855237697335548
+      FoodIcons_AssetSheet_Foods_19: 2247913245445856491
+      FoodIcons_AssetSheet_Foods_2: 6272093624985469487
+      FoodIcons_AssetSheet_Foods_20: 6284157782928274670
+      FoodIcons_AssetSheet_Foods_21: 7796919658877434303
+      FoodIcons_AssetSheet_Foods_22: 1747860148807140936
+      FoodIcons_AssetSheet_Foods_23: 5585456664649688161
+      FoodIcons_AssetSheet_Foods_3: 8792238726278341804
+      FoodIcons_AssetSheet_Foods_4: -4262239907707209816
+      FoodIcons_AssetSheet_Foods_5: -7431362439721763364
+      FoodIcons_AssetSheet_Foods_6: -801901225686920624
+      FoodIcons_AssetSheet_Foods_7: -656238213647832816
+      FoodIcons_AssetSheet_Foods_8: 5970415519535219255
+      FoodIcons_AssetSheet_Foods_9: -348472027398737017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

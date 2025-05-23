@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wagon_TurnipsYellow_0: 2186920778703157690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

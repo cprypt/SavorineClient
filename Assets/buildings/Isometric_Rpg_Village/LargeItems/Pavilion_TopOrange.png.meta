@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pavilion_TopOrange_0: 6232662504913674172
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

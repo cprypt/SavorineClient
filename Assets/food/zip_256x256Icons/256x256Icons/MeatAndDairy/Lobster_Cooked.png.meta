@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lobster_Cooked_0: -3340578161380851663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

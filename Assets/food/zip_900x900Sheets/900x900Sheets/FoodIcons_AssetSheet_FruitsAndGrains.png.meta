@@ -960,7 +960,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoodIcons_AssetSheet_FruitsAndGrains_0: -5164837512247206723
+      FoodIcons_AssetSheet_FruitsAndGrains_1: 5729882774207587620
+      FoodIcons_AssetSheet_FruitsAndGrains_10: -4013212049053921796
+      FoodIcons_AssetSheet_FruitsAndGrains_11: -6713542106174675967
+      FoodIcons_AssetSheet_FruitsAndGrains_12: 2402557826127289723
+      FoodIcons_AssetSheet_FruitsAndGrains_13: 3247591614866142213
+      FoodIcons_AssetSheet_FruitsAndGrains_14: -5436504756919481950
+      FoodIcons_AssetSheet_FruitsAndGrains_15: 2913086476572110735
+      FoodIcons_AssetSheet_FruitsAndGrains_16: -7024367103470254866
+      FoodIcons_AssetSheet_FruitsAndGrains_17: 4583965753798319333
+      FoodIcons_AssetSheet_FruitsAndGrains_18: 1139312387550131029
+      FoodIcons_AssetSheet_FruitsAndGrains_19: 6491727066458354022
+      FoodIcons_AssetSheet_FruitsAndGrains_2: -4617279484948752540
+      FoodIcons_AssetSheet_FruitsAndGrains_20: 7168502717158069471
+      FoodIcons_AssetSheet_FruitsAndGrains_21: -3235434054281322805
+      FoodIcons_AssetSheet_FruitsAndGrains_22: -4219274340656394436
+      FoodIcons_AssetSheet_FruitsAndGrains_23: -3686713988660231570
+      FoodIcons_AssetSheet_FruitsAndGrains_24: 7141636829580059573
+      FoodIcons_AssetSheet_FruitsAndGrains_25: 2539187899314892368
+      FoodIcons_AssetSheet_FruitsAndGrains_26: 4063001048856018077
+      FoodIcons_AssetSheet_FruitsAndGrains_27: 8322192782518547738
+      FoodIcons_AssetSheet_FruitsAndGrains_28: 5045476003003771317
+      FoodIcons_AssetSheet_FruitsAndGrains_29: -2111016819146005826
+      FoodIcons_AssetSheet_FruitsAndGrains_3: 5360599880372247976
+      FoodIcons_AssetSheet_FruitsAndGrains_30: -5252674372340606937
+      FoodIcons_AssetSheet_FruitsAndGrains_31: -8357628943867320522
+      FoodIcons_AssetSheet_FruitsAndGrains_32: -5975422852943790629
+      FoodIcons_AssetSheet_FruitsAndGrains_4: -2450272383399490203
+      FoodIcons_AssetSheet_FruitsAndGrains_5: -4038420208166441786
+      FoodIcons_AssetSheet_FruitsAndGrains_6: 5329273168144826051
+      FoodIcons_AssetSheet_FruitsAndGrains_7: -2004973377856444943
+      FoodIcons_AssetSheet_FruitsAndGrains_8: -7194931350538137484
+      FoodIcons_AssetSheet_FruitsAndGrains_9: 2568721901398580612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

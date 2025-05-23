@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Crystal_Red_1_0: -8218465487566006457
+      FG_Crystal_Red_1_1: 8208120553273177042
+      FG_Crystal_Red_1_2: 5428358323211206
+      FG_Crystal_Red_1_3: 2973449430991512832
+      FG_Crystal_Red_1_4: -2423160051215757199
+      FG_Crystal_Red_1_5: 8477941997456243812
+      FG_Crystal_Red_1_6: -3934170602730273179
+      FG_Crystal_Red_1_7: 503997172940373936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

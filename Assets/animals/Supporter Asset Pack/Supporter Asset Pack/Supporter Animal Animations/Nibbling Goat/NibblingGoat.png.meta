@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NibblingGoat_0: 9006725120427716185
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

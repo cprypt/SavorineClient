@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Booth_Fruit_0: 2249531020610660049
+      Booth_Fruit_1: 303394595142469257
+      Booth_Fruit_2: -1365761906255898947
+      Booth_Fruit_3: 8724935854994162944
+      Booth_Fruit_4: -5243931949264271728
+      Booth_Fruit_5: -2289757774710845199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

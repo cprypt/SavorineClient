@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CottonCandy_Green_0: 6464513304393324146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

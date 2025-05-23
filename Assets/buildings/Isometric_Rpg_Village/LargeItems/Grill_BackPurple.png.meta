@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grill_BackPurple_0: -1833793987601936112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

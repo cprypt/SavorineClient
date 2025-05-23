@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoodIcons_AssetSheet_MeatAndDairy_0: 3578520598619665190
+      FoodIcons_AssetSheet_MeatAndDairy_1: 1606306078531134138
+      FoodIcons_AssetSheet_MeatAndDairy_10: -3763813987427695995
+      FoodIcons_AssetSheet_MeatAndDairy_11: 2810794505016728151
+      FoodIcons_AssetSheet_MeatAndDairy_12: -3463952471871832101
+      FoodIcons_AssetSheet_MeatAndDairy_13: 4413993388681964413
+      FoodIcons_AssetSheet_MeatAndDairy_14: 8988734856439962844
+      FoodIcons_AssetSheet_MeatAndDairy_15: -6316735389247678753
+      FoodIcons_AssetSheet_MeatAndDairy_16: -5151085144575881453
+      FoodIcons_AssetSheet_MeatAndDairy_17: 4776832024222764154
+      FoodIcons_AssetSheet_MeatAndDairy_18: -7819889690454311855
+      FoodIcons_AssetSheet_MeatAndDairy_19: -4377787023212602383
+      FoodIcons_AssetSheet_MeatAndDairy_2: 6627960359913588426
+      FoodIcons_AssetSheet_MeatAndDairy_20: -6427243801079721917
+      FoodIcons_AssetSheet_MeatAndDairy_21: -289552612528760117
+      FoodIcons_AssetSheet_MeatAndDairy_22: -5030169512392086420
+      FoodIcons_AssetSheet_MeatAndDairy_23: -4430553603999516333
+      FoodIcons_AssetSheet_MeatAndDairy_3: -5804126239250742130
+      FoodIcons_AssetSheet_MeatAndDairy_4: 262030988366888147
+      FoodIcons_AssetSheet_MeatAndDairy_5: 8351641359399190113
+      FoodIcons_AssetSheet_MeatAndDairy_6: 7722351586377288605
+      FoodIcons_AssetSheet_MeatAndDairy_7: 4541498647103249773
+      FoodIcons_AssetSheet_MeatAndDairy_8: -3063922695245389484
+      FoodIcons_AssetSheet_MeatAndDairy_9: -2411012868734153332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

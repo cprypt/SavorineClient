@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HoppingKangaroo_0: 8583286345550546024
+      HoppingKangaroo_1: 1059209251582427832
+      HoppingKangaroo_2: 6131442230746879861
+      HoppingKangaroo_3: -7989681899132317346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

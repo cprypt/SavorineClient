@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChubbyCat_0: 3667007159136165759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

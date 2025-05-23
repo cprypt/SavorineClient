@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RabidHyena_0: -3878475585749663157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cocktail_Coconut_0: 7243830696529791962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

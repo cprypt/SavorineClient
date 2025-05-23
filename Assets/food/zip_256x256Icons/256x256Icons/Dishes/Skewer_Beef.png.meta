@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skewer_Beef_0: 8562357000844775571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

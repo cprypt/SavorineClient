@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Tree_Winter_0: 2010883152914375531
+      FG_Tree_Winter_1: 7253345695753560399
+      FG_Tree_Winter_2: 3876730002683640117
+      FG_Tree_Winter_3: -3009581593975247272
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

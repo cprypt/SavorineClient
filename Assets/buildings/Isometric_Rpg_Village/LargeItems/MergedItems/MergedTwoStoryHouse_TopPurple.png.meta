@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MergedTwoStoryHouse_TopPurple_0: -2375841151425609297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

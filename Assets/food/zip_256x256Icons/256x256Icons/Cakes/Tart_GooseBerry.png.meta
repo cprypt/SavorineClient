@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tart_GooseBerry_0: 6639240282806228219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

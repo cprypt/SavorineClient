@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crepe_Chokolate_0: -8689356592948065623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sandwich_Salami_0: 1056869992041300766
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

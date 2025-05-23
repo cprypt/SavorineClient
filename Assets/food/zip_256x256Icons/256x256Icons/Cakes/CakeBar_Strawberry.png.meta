@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CakeBar_Strawberry_0: -8500827137207404302
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

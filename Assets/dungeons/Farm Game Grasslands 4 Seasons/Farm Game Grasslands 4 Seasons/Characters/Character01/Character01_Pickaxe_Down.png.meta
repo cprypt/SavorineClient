@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character01_Pickaxe_Down_0: -7760265004168850215
+      Character01_Pickaxe_Down_1: -8043281159856038731
+      Character01_Pickaxe_Down_2: 807686879036215835
+      Character01_Pickaxe_Down_3: 2052190599873761286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

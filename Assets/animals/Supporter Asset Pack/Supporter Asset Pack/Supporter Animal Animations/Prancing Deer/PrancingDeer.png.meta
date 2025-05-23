@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PrancingDeer_0: -4434101236369050028
+      PrancingDeer_1: 8241337783304905870
+      PrancingDeer_2: -2485202694099753451
+      PrancingDeer_3: 6052363667293987331
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mooncake_0: 1202954921104596876
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

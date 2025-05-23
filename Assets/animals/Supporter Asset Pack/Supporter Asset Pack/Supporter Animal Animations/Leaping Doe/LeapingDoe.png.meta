@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LeapingDoe_0: -7620345516281084724
+      LeapingDoe_1: -7857060586684480090
+      LeapingDoe_2: -1531742329433942034
+      LeapingDoe_3: -4864706463999500713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

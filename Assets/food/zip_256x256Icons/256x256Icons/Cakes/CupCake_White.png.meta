@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CupCake_White_0: 81788169927392355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cheese_Blue_0: -6611352604794802382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

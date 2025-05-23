@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pavilion_BottomGreen_0: 5493035465847061143
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

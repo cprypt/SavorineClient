@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grill_Skewers_0: -6341543101962859899
+      Grill_Skewers_1: 1446038567846030061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

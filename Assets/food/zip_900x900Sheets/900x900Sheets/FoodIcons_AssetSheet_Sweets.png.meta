@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoodIcons_AssetSheet_Sweets_0: -6013084503565936081
+      FoodIcons_AssetSheet_Sweets_1: 1623576468810954290
+      FoodIcons_AssetSheet_Sweets_10: 6731372975559015883
+      FoodIcons_AssetSheet_Sweets_11: -5594764990509553092
+      FoodIcons_AssetSheet_Sweets_12: -294723701934290181
+      FoodIcons_AssetSheet_Sweets_13: -7328871622576967313
+      FoodIcons_AssetSheet_Sweets_14: -7186016531693924118
+      FoodIcons_AssetSheet_Sweets_15: -1487564410359030345
+      FoodIcons_AssetSheet_Sweets_16: 630101025145759985
+      FoodIcons_AssetSheet_Sweets_17: 8755766242138116299
+      FoodIcons_AssetSheet_Sweets_18: -7681078174387327989
+      FoodIcons_AssetSheet_Sweets_19: 7882839044582112850
+      FoodIcons_AssetSheet_Sweets_2: 6081743460533115400
+      FoodIcons_AssetSheet_Sweets_20: 159504225547185781
+      FoodIcons_AssetSheet_Sweets_21: -564508291828339698
+      FoodIcons_AssetSheet_Sweets_22: -3848111131160537516
+      FoodIcons_AssetSheet_Sweets_23: 283224839045047967
+      FoodIcons_AssetSheet_Sweets_3: -4622363894374522419
+      FoodIcons_AssetSheet_Sweets_4: -315487183958989267
+      FoodIcons_AssetSheet_Sweets_5: -5162327979762106376
+      FoodIcons_AssetSheet_Sweets_6: -4251336367942986142
+      FoodIcons_AssetSheet_Sweets_7: -1965940705248750730
+      FoodIcons_AssetSheet_Sweets_8: 834606403696171947
+      FoodIcons_AssetSheet_Sweets_9: 6073827837967609561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

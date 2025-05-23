@@ -785,7 +785,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Grasslands_Summer_E_0: 4642945969032579378
+      FG_Grasslands_Summer_E_1: -6605427394950169960
+      FG_Grasslands_Summer_E_10: 349808096030470943
+      FG_Grasslands_Summer_E_11: -1012700073629502727
+      FG_Grasslands_Summer_E_12: 4408300062089734735
+      FG_Grasslands_Summer_E_13: -7597580356167092347
+      FG_Grasslands_Summer_E_14: 5097013255948738575
+      FG_Grasslands_Summer_E_15: -5321891832557876460
+      FG_Grasslands_Summer_E_16: -5462155629597297151
+      FG_Grasslands_Summer_E_17: 577969653947615520
+      FG_Grasslands_Summer_E_18: 8710013754997221333
+      FG_Grasslands_Summer_E_19: 5483921763346822875
+      FG_Grasslands_Summer_E_2: 8178471551273333024
+      FG_Grasslands_Summer_E_20: 3418101635225216273
+      FG_Grasslands_Summer_E_21: 7311985379558512886
+      FG_Grasslands_Summer_E_22: -3721716732585941833
+      FG_Grasslands_Summer_E_23: 845327541877143418
+      FG_Grasslands_Summer_E_24: 316718519279272509
+      FG_Grasslands_Summer_E_25: 6205430302043752345
+      FG_Grasslands_Summer_E_3: 4229270081541019022
+      FG_Grasslands_Summer_E_4: -3314572014802796281
+      FG_Grasslands_Summer_E_5: 882958338062013605
+      FG_Grasslands_Summer_E_6: -3400310114745082710
+      FG_Grasslands_Summer_E_7: -9057985325385788542
+      FG_Grasslands_Summer_E_8: 6268839688872829386
+      FG_Grasslands_Summer_E_9: 5706022515156073265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grill_Carrots_0: -7617506721195372535
+      Grill_Carrots_1: -2078351736400855009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

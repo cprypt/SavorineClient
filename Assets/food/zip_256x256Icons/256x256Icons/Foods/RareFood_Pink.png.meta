@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RareFood_Pink_0: 177082979629037241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

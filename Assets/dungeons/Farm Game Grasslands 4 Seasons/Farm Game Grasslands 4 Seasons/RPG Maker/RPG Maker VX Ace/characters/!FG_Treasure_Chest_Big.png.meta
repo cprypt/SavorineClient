@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!FG_Treasure_Chest_Big_0': -8237857760027758964
+      '!FG_Treasure_Chest_Big_1': 2278989430307372686
+      '!FG_Treasure_Chest_Big_10': 7602057238120441212
+      '!FG_Treasure_Chest_Big_11': 8757138887029695634
+      '!FG_Treasure_Chest_Big_2': -8018300832155450000
+      '!FG_Treasure_Chest_Big_3': -999370468442490781
+      '!FG_Treasure_Chest_Big_4': -9053041062265121841
+      '!FG_Treasure_Chest_Big_5': -3291335182067363737
+      '!FG_Treasure_Chest_Big_6': -7173931423136238046
+      '!FG_Treasure_Chest_Big_7': -1065912541325231784
+      '!FG_Treasure_Chest_Big_8': 9184635313092077525
+      '!FG_Treasure_Chest_Big_9': 5902661120430899739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

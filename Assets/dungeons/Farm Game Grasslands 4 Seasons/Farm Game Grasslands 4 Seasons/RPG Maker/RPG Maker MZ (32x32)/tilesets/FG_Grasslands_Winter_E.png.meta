@@ -785,7 +785,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Grasslands_Winter_E_0: 3179641371855630653
+      FG_Grasslands_Winter_E_1: -2502457808610912522
+      FG_Grasslands_Winter_E_10: 4770987664829452738
+      FG_Grasslands_Winter_E_11: 3516847183232005442
+      FG_Grasslands_Winter_E_12: 7265725215966440787
+      FG_Grasslands_Winter_E_13: 3507507430585578936
+      FG_Grasslands_Winter_E_14: -391943819253734090
+      FG_Grasslands_Winter_E_15: -7118959775283609254
+      FG_Grasslands_Winter_E_16: -8441851487944089155
+      FG_Grasslands_Winter_E_17: 542565844792328500
+      FG_Grasslands_Winter_E_18: -4664169299799910662
+      FG_Grasslands_Winter_E_19: 3701898997614551091
+      FG_Grasslands_Winter_E_2: 5853352099230759142
+      FG_Grasslands_Winter_E_20: -5354077767074287512
+      FG_Grasslands_Winter_E_21: -1716335860666766228
+      FG_Grasslands_Winter_E_22: -173103982074550551
+      FG_Grasslands_Winter_E_23: -955431315832313303
+      FG_Grasslands_Winter_E_24: 11149191821920868
+      FG_Grasslands_Winter_E_25: -7848436671038803138
+      FG_Grasslands_Winter_E_3: 1609148377093994417
+      FG_Grasslands_Winter_E_4: -1184021773312137957
+      FG_Grasslands_Winter_E_5: -6891795398951472480
+      FG_Grasslands_Winter_E_6: -1032725210831922601
+      FG_Grasslands_Winter_E_7: -4353542068735857127
+      FG_Grasslands_Winter_E_8: -3591668165381157659
+      FG_Grasslands_Winter_E_9: 598248283170826930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

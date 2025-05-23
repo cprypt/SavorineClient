@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RareFood_Blue_0: -2451680312903112454
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

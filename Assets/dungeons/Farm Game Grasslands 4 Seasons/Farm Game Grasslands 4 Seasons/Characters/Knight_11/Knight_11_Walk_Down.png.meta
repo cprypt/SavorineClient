@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight_11_Walk_Down_0: 775969696406670280
+      Knight_11_Walk_Down_1: 2476685065452087192
+      Knight_11_Walk_Down_2: 2873884749373957654
+      Knight_11_Walk_Down_3: 247452895340398081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

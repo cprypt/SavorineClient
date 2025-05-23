@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character01_Hoe_Down_0: 2610060204636854069
+      Character01_Hoe_Down_1: -374435069317720615
+      Character01_Hoe_Down_2: -962043811960340551
+      Character01_Hoe_Down_3: 1147181281080762651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

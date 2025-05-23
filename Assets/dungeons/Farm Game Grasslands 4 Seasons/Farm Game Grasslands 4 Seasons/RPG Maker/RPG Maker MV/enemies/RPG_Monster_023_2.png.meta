@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RPG_Monster_023_2_0: 4180935761148614737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

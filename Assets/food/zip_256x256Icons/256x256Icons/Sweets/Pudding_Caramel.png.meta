@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pudding_Caramel_0: 6336797550736170555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

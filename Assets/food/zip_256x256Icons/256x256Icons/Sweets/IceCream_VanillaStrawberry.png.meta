@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceCream_VanillaStrawberry_0: 5808522211557813541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

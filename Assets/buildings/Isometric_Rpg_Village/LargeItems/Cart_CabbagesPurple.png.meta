@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cart_CabbagesPurple_0: 8938535532474097702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

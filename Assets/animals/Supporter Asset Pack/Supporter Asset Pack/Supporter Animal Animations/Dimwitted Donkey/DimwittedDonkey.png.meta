@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DimwittedDonkey_0: 6533869400990896234
+      DimwittedDonkey_1: 810541722507861101
+      DimwittedDonkey_2: 8372441520452714886
+      DimwittedDonkey_3: 4083975685390892073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

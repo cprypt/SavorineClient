@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Curry_Yellow_0: -691148699248543730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

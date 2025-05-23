@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaithfulDog_0: -5100873449508391997
+      FaithfulDog_1: -3669105510245432378
+      FaithfulDog_2: 1230475054006138101
+      FaithfulDog_3: 2939228387889239959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

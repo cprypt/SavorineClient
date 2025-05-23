@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FoodIcons_AssetSheet_Beverages_0: 981513120212314046
+      FoodIcons_AssetSheet_Beverages_1: 480188676548567970
+      FoodIcons_AssetSheet_Beverages_10: 4270228333971443778
+      FoodIcons_AssetSheet_Beverages_11: -3042839694118088861
+      FoodIcons_AssetSheet_Beverages_12: 4450423235310307810
+      FoodIcons_AssetSheet_Beverages_13: -8714525468384698357
+      FoodIcons_AssetSheet_Beverages_14: 5337828052921742669
+      FoodIcons_AssetSheet_Beverages_15: -5274771514485448207
+      FoodIcons_AssetSheet_Beverages_16: -6560106516658621405
+      FoodIcons_AssetSheet_Beverages_17: -3273760321025111126
+      FoodIcons_AssetSheet_Beverages_18: 275390744616302116
+      FoodIcons_AssetSheet_Beverages_19: 1416055476249124116
+      FoodIcons_AssetSheet_Beverages_2: -831203128212870972
+      FoodIcons_AssetSheet_Beverages_20: -6553607977526642118
+      FoodIcons_AssetSheet_Beverages_21: -7268911710890257493
+      FoodIcons_AssetSheet_Beverages_22: -7760765880852173076
+      FoodIcons_AssetSheet_Beverages_23: -5437552755903192882
+      FoodIcons_AssetSheet_Beverages_3: -8079523276724922086
+      FoodIcons_AssetSheet_Beverages_4: 6295546591471400413
+      FoodIcons_AssetSheet_Beverages_5: -1339408932088067814
+      FoodIcons_AssetSheet_Beverages_6: -6732980203864990626
+      FoodIcons_AssetSheet_Beverages_7: -4111689267796649430
+      FoodIcons_AssetSheet_Beverages_8: 6118995219703921262
+      FoodIcons_AssetSheet_Beverages_9: 7809244304790386376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

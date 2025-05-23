@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Radishes_0: -6870791631766843461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Booth_GroundShadow_0: 8436602748415261758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

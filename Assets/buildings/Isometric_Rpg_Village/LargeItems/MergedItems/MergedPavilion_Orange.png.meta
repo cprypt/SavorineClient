@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MergedPavilion_Orange_0: 2976216203739986615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

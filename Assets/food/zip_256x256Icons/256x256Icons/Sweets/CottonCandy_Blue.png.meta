@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CottonCandy_Blue_0: -1349591252311045479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

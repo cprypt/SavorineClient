@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OpenSandwich_Meat_0: -5443828242469961331
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

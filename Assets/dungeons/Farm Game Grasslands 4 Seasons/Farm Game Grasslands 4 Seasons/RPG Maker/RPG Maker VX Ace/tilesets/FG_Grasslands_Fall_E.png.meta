@@ -785,7 +785,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Grasslands_Fall_E_0: -1068749054178490681
+      FG_Grasslands_Fall_E_1: -4150419822029239725
+      FG_Grasslands_Fall_E_10: -6401128488308758949
+      FG_Grasslands_Fall_E_11: -6204331153549507277
+      FG_Grasslands_Fall_E_12: -7617026179377004192
+      FG_Grasslands_Fall_E_13: 3549328077897412905
+      FG_Grasslands_Fall_E_14: 5241546978416559528
+      FG_Grasslands_Fall_E_15: 9161339339330606061
+      FG_Grasslands_Fall_E_16: -1411768615186445178
+      FG_Grasslands_Fall_E_17: -963571743993326645
+      FG_Grasslands_Fall_E_18: -1560179472710884559
+      FG_Grasslands_Fall_E_19: -4897149288264326756
+      FG_Grasslands_Fall_E_2: 7727935579597887758
+      FG_Grasslands_Fall_E_20: 7395628958625037340
+      FG_Grasslands_Fall_E_21: 7043808477732465806
+      FG_Grasslands_Fall_E_22: -5695429690827714833
+      FG_Grasslands_Fall_E_23: 6768493542440687127
+      FG_Grasslands_Fall_E_24: 3006444424863350332
+      FG_Grasslands_Fall_E_25: 661529927656508216
+      FG_Grasslands_Fall_E_3: 5714133926454601601
+      FG_Grasslands_Fall_E_4: 3602926779764803094
+      FG_Grasslands_Fall_E_5: 8282361634085528895
+      FG_Grasslands_Fall_E_6: -4046693177210126784
+      FG_Grasslands_Fall_E_7: -6527285201512346365
+      FG_Grasslands_Fall_E_8: -3812091164473307578
+      FG_Grasslands_Fall_E_9: -8612720969388357001
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

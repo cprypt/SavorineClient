@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RabidHyena_0: -3878475585749663157
+      RabidHyena_1: 57729757665241412
+      RabidHyena_2: 4066215394734753708
+      RabidHyena_3: -763196409295623408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

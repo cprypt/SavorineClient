@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pizza_Mushroom_0: 8945766927753167475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

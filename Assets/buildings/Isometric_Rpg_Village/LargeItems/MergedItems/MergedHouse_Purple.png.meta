@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MergedHouse_Purple_0: -7969206472270631647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -785,7 +785,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Grasslands_Spring_E_0: 543594409588050956
+      FG_Grasslands_Spring_E_1: 1152445702083252924
+      FG_Grasslands_Spring_E_10: -5193855185862225641
+      FG_Grasslands_Spring_E_11: -4400068889270951785
+      FG_Grasslands_Spring_E_12: -2493160100868407607
+      FG_Grasslands_Spring_E_13: 2029888972045822791
+      FG_Grasslands_Spring_E_14: -1615649333622773930
+      FG_Grasslands_Spring_E_15: 7398967195695668231
+      FG_Grasslands_Spring_E_16: 2958936439844456560
+      FG_Grasslands_Spring_E_17: -980207616870512825
+      FG_Grasslands_Spring_E_18: -8955653495830951379
+      FG_Grasslands_Spring_E_19: -9173844273638089936
+      FG_Grasslands_Spring_E_2: 1455690742856122478
+      FG_Grasslands_Spring_E_20: 8648152091376474125
+      FG_Grasslands_Spring_E_21: -4176668060644857426
+      FG_Grasslands_Spring_E_22: 3323915371288192520
+      FG_Grasslands_Spring_E_23: 912546356031902849
+      FG_Grasslands_Spring_E_24: 1737305655660962819
+      FG_Grasslands_Spring_E_25: 4890178287795870081
+      FG_Grasslands_Spring_E_3: 1969813977852727091
+      FG_Grasslands_Spring_E_4: -558218559686771121
+      FG_Grasslands_Spring_E_5: -1946750736899176118
+      FG_Grasslands_Spring_E_6: -338952672520838511
+      FG_Grasslands_Spring_E_7: -5350604317213966091
+      FG_Grasslands_Spring_E_8: -782158740971258984
+      FG_Grasslands_Spring_E_9: 2435495790888443524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

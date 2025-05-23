@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grill_Potatoes_0: 6501507757972322385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

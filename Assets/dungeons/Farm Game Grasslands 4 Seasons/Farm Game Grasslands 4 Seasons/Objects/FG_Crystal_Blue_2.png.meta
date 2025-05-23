@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Crystal_Blue_2_0: 8928067172267241887
+      FG_Crystal_Blue_2_1: -3615866063605859725
+      FG_Crystal_Blue_2_2: -1375912548063953631
+      FG_Crystal_Blue_2_3: 2551055463188918972
+      FG_Crystal_Blue_2_4: -3560581342616490784
+      FG_Crystal_Blue_2_5: -3846680818316974440
+      FG_Crystal_Blue_2_6: 6815724236569458565
+      FG_Crystal_Blue_2_7: -2357874170405510961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ArcticWolf_0: -28363648352190204
+      ArcticWolf_1: -4871862677956673930
+      ArcticWolf_2: -5004062469583404426
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

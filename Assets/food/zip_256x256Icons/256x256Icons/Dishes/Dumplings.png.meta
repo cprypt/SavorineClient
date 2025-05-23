@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dumplings_0: 5640813566677825842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

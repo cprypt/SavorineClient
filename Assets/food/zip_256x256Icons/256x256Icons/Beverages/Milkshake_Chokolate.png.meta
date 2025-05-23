@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Milkshake_Chokolate_0: 3354314829464505697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

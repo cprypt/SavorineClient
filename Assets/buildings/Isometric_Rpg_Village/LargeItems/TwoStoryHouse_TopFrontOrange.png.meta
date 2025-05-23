@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TwoStoryHouse_TopFrontOrange_0: -304041183971649686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

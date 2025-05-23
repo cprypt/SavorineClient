@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RiceOmlete_0: 1255687723109209486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FG_Crystal_Gold_1_0: 1048217514518447517
+      FG_Crystal_Gold_1_1: -8529030651490924100
+      FG_Crystal_Gold_1_2: -4660822309849181832
+      FG_Crystal_Gold_1_3: -2356834002963231060
+      FG_Crystal_Gold_1_4: -2175339006834199479
+      FG_Crystal_Gold_1_5: -7678427279655850825
+      FG_Crystal_Gold_1_6: -2069384332968863621
+      FG_Crystal_Gold_1_7: -1812422398018875987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

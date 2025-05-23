@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Asparagus_White_0: 1467694660076722114
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

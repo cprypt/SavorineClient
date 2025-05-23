@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character05_Watercan_Right_0: 7060412289689688121
+      Character05_Watercan_Right_1: -6842421086870117532
+      Character05_Watercan_Right_2: -8469974867089903045
+      Character05_Watercan_Right_3: 8210609068007401234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

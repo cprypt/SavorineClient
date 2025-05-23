@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AssetSheet_SmallItemsFlora_0: 4609949773464090273
+      AssetSheet_SmallItemsFlora_1: -6362782320373509061
+      AssetSheet_SmallItemsFlora_10: -1168187254452416019
+      AssetSheet_SmallItemsFlora_2: 36109785656571878
+      AssetSheet_SmallItemsFlora_3: -8472480337972907840
+      AssetSheet_SmallItemsFlora_4: -8214421776870058234
+      AssetSheet_SmallItemsFlora_5: 3322598992749328971
+      AssetSheet_SmallItemsFlora_6: -7538820151591962168
+      AssetSheet_SmallItemsFlora_7: -6986820129436342201
+      AssetSheet_SmallItemsFlora_8: -8454066037059877787
+      AssetSheet_SmallItemsFlora_9: 5740432239353743397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

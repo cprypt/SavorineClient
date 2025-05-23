@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CakeSlice_Macha_0: 8294936315695048905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

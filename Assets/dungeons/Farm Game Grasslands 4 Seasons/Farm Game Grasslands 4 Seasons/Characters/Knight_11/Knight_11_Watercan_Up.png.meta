@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight_11_Watercan_Up_0: -4589320910774406100
+      Knight_11_Watercan_Up_1: 1719740102354448934
+      Knight_11_Watercan_Up_2: 8552338210321325529
+      Knight_11_Watercan_Up_3: 5808247669977717077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

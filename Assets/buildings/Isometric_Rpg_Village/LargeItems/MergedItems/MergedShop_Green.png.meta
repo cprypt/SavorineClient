@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MergedShop_Green_0: 8395502009076648758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

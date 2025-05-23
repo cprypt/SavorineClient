@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceCream_ChokolateCaramel_0: 2823585786492338570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

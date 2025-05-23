@@ -885,7 +885,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AssetSheet_Plants_0: 5087624005421567740
+      AssetSheet_Plants_1: 6076761915976515314
+      AssetSheet_Plants_10: 4034233349453716759
+      AssetSheet_Plants_11: -3062049661017259744
+      AssetSheet_Plants_12: -5988615510053621923
+      AssetSheet_Plants_13: 5246445722106865249
+      AssetSheet_Plants_14: 4006515139066850982
+      AssetSheet_Plants_15: -2835424824023160610
+      AssetSheet_Plants_16: -133405439803676823
+      AssetSheet_Plants_17: -1766533235298990701
+      AssetSheet_Plants_18: -1800885361260291319
+      AssetSheet_Plants_19: -5672624138592758208
+      AssetSheet_Plants_2: 1068462325763445565
+      AssetSheet_Plants_20: 7283458312484248003
+      AssetSheet_Plants_21: 1071720340887698834
+      AssetSheet_Plants_22: 484766303511731322
+      AssetSheet_Plants_23: -3953354804153236028
+      AssetSheet_Plants_24: -2617073473427709334
+      AssetSheet_Plants_25: 1024777495444901275
+      AssetSheet_Plants_26: -5543855317756528923
+      AssetSheet_Plants_27: 3273142520654727689
+      AssetSheet_Plants_28: -9144459433859538373
+      AssetSheet_Plants_29: 3295033831730029816
+      AssetSheet_Plants_3: 4128355054778199937
+      AssetSheet_Plants_4: -1019140487777963766
+      AssetSheet_Plants_5: -1377904642616316278
+      AssetSheet_Plants_6: -4982966721702951141
+      AssetSheet_Plants_7: -6774315294931728299
+      AssetSheet_Plants_8: 1889215641098061968
+      AssetSheet_Plants_9: -5974369366842691319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

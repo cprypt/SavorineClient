@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlueJay_0: -5306715350483302381
+      BlueJay_1: 4672820208718578419
+      BlueJay_2: -6894206701863760522
+      BlueJay_3: 8776969548688530843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

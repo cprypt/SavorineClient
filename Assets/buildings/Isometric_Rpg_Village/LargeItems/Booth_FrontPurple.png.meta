@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Booth_FrontPurple_0: -2425401903027175903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
